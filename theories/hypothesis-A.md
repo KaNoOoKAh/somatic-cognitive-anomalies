@@ -23,10 +23,10 @@ I’ve noticed people responding in different ways and comprehension levels have
 
 Part II: Firsthand Account and Investigation Method
 
-In addition to observing the general population, I have personally experienced and investigated these shifts firsthand through the following methods:
+In addition to observing the general population, I have personally experienced and investigated these shifts firsthand through the following methods.
 
 Direct Sensory Awareness of Systemic Shift: 
-I have personally felt a profound, massive physical change within my own system and surrounding environment, which prompted me to investigate the root causes of these population-wide changes. I wore dress shoes to a Celebration of Life last night, and I applied the exact opposite type of pressure or force than I normally do. It’s like I applied negative pressure to my leg and foot for a few hours instead of downward pressure in order to maintain a flat foot and not make a crease in the dress shoes.
+I have personally felt a profound, massive physical change within my own system and surrounding environment, which prompted me to investigate the root causes of these population-wide changes. I wore dress shoes to a Celebration of Life last night, and I applied the exact opposite type of pressure or force than I normally do. It’s like I applied negative pressure or different angles of directional pressure to my leg and foot for a few hours instead of downward pressure in order to maintain a flat foot and not make a crease in the dress shoes.
 
 Field Testing and Verbal Verification: 
 To verify these changes, I actively engaged with individuals in my community who exhibited the visual left-eye wander. Upon questioning them, I documented that while they could not medically explain the physical sensation, they immediately recognized the tracking drift once it was pointed out and confirmed seeing it in their own families.
@@ -78,5 +78,5 @@ Given the severe and undeniable implications these factors have on our survival,
 
 I have left out many other observations, intellectual theories, and practical methods. I simply needed to get this initial framework submitted immediately rather than doing nothing when I know something massive is happening and I have bare minimum knowledge and a little experience in solving it. I am formally asking for help, and I expect an honest, data-driven, and objective investigation into these matters.
 
-Thank you for your time, consideration, and dedication to public safety. I wanted to submit this in order to bring awareness to the situation ive been witnessing on Oahu and across the nation. I look forward to your official acknowledgment and response to this submission.
+Thank you for your time, CONCENTRATION, and ATTENTION to public safety. I wanted to submit this in order to bring awareness to the situation ive been witnessing on Oahu and across the nation. I look forward to your official acknowledgment and response to this submission.
 
