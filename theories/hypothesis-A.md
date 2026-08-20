@@ -37,7 +37,7 @@ Direct Sensory Awareness of Systemic Shift:
 
 Firsthand Account(s):
 
-I wore dress shoes to a Celebration of Life last night, and I applied the exact opposite type of pressure or force than I normally do. It’s like I applied negative pressure or different angles of directional pressure to my leg and foot for a few hours instead of downward pressure in order to maintain a flat foot and not make a crease in the dress shoes.
+I wore dress shoes to a Celebration of Life last night on Friday, August 14th, 2026, and I applied the exact opposite type of pressure or force than I normally do. It’s like I applied negative pressure or different angles of directional pressure to my leg and foot for a few hours instead of downward pressure in order to maintain a flat foot and not make a crease in the dress shoes.
 
 Field Testing and Verbal Verification: 
 
