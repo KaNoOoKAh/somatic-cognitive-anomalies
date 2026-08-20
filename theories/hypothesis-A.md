@@ -26,7 +26,9 @@ Part II: Firsthand Account and Investigation Method
 In addition to observing the general population, I have personally experienced and investigated these shifts firsthand through the following methods.
 
 Direct Sensory Awareness of Systemic Shift: 
-I have personally felt a profound, massive physical change within my own system and surrounding environment, which prompted me to investigate the root causes of these population-wide changes. I wore dress shoes to a Celebration of Life last night, and I applied the exact opposite type of pressure or force than I normally do. It’s like I applied negative pressure or different angles of directional pressure to my leg and foot for a few hours instead of downward pressure in order to maintain a flat foot and not make a crease in the dress shoes.
+I have personally felt a profound, massive physical change within my own system and surrounding environment, which prompted me to investigate the root causes of these population-wide changes. 
+
+I wore dress shoes to a Celebration of Life last night, and I applied the exact opposite type of pressure or force than I normally do. It’s like I applied negative pressure or different angles of directional pressure to my leg and foot for a few hours instead of downward pressure in order to maintain a flat foot and not make a crease in the dress shoes.
 
 Field Testing and Verbal Verification: 
 To verify these changes, I actively engaged with individuals in my community who exhibited the visual left-eye wander. Upon questioning them, I documented that while they could not medically explain the physical sensation, they immediately recognized the tracking drift once it was pointed out and confirmed seeing it in their own families.
