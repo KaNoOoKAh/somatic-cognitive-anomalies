@@ -27,7 +27,7 @@ Select a specific coordinate vector below to access the deep-core tracking sub-f
     *   [`theories/hypothesis-A.md`](theories/hypothesis-A.md) – Craniofacial alignment models, posture tracking, and public comprehension drop theories.
     *   [`theories/fluid-vacuum-threshold.md`](theories/fluid-vacuum-threshold.md) – Hydrostatic fluid velocity data and upper nasal cavity neural feedback analysis.
 *   **[📁 LIVE TRIAL LOGS]**
-    *   [`trials/trial-001.md`](trials/trial-001.md)[trials-002]([trials/trials-002.md](https://github.com/KaNoOoKAh/somatic-cognitive-anomalies/trials/trials-002.md) – Live field test data from Diamond Head Road tracking automatic nasopharynx suction loops with Subject-B.
+    *   [`trials/trial-001.md`](trials/trial-001.md) – Live field test data from Diamond Head Road tracking automatic nasopharynx suction loops with Subject-B.
 *   **[📁 COMPLIANCE & CORRESPONDENCE NOTES]**
     *   [`notes/judicial-submission.md`](notes/judicial-submission.md) – Chronological audit trail of the formal operational deficiencies notice transmitted on July 3, 2026.
     *   [`notes/judicial-followup-friction.md`
