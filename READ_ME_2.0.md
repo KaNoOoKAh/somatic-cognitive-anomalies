@@ -171,8 +171,8 @@ Interpretation: Pelvic movement WITHOUT spinal integration = complete fascia dis
 
 SECTION 3: LOSS OF ROTATIONAL CAPACITY AND WHOLE-BODY REPOSITIONING
 
-Observation: Older Woman Turning
-- Attempts to turn head
+Observation: Woman Turning
+- Attempts to turn head when walking down the parking structure lane moving with the flow of traffic heading towards CVS.
 - Hits rotational limit (cervical spine locked)
 - Instead of rotating spine, entire body shuffles/repositions to face new direction
 - Legs reposition, feet adjust, body turns to new direction
@@ -184,7 +184,7 @@ Interpretation: Complete spinal rigidity across all three segments (cervical, th
 
 SECTION 4: LOAD-BEARING REVEALS HIDDEN DISCONNECTION
 
-Observation: ODI (Older Disabled Individual) Carrying Bag of Clothes
+Observation: (Individual) Carrying Bag of Clothes
 - Arm/shoulder static while carrying load (not swinging naturally)
 - Upper body leaning INTO bag instead of arm balancing it
 - Body crossing midline (past sagittal plane) to compensate
@@ -198,7 +198,7 @@ Interpretation: Adding load (bag) to a disconnected person REVEALS hidden discon
 
 SECTION 5: REAL-TIME SYMPATHETIC ACTIVATION MARKERS
 
-Observation: Restaurant Employee (Female, Front Counter)
+Observation: 2 Restaurant Employees (Female, Front Counter)
 - Facial redness: Concentrated between eyebrows, nose bridge (vasodilation from sympathetic activation)
 - Neck sweating: Posterior and anterior cervical area showing sweat
 - Back sweating: Specifically along spine/central axis (stress-induced, not environmental heat)
@@ -224,7 +224,7 @@ Interpretation: Complete somatic dissociation. Anterior chain dominance so sever
 
 ---
 
-SECTION 7: INTERGENERATIONAL CASE STUDY — 85-YEAR-OLD MALE HEALTH INTERVIEW
+SECTION 7: INTERGENERATIONAL CASE STUDY | MALE HEALTH INTERVIEW
 
 Interview Context: Extensive health and somatic awareness questioning with 85-year-old man
 
@@ -238,23 +238,25 @@ Observations:
 - Autonomic stress: Headaches, heat sensitivity, fatigue
 - Social isolation: Wife scared of his activities, retirement, limited social engagement
 
-Implication: At 85 years old, this person demonstrates complete interoceptive numbness (cannot sense body unless consciously attending), involuntary motor responses throughout face/jaw/eyes/feet, and asymmetrical dysfunction. No awareness of his own somatic state without external prompting and cognitive effort ("you gotta think").
+Implication: This person demonstrates complete interoceptive numbness (cannot sense body unless consciously attending), involuntary motor responses throughout face/jaw/eyes/feet, and asymmetrical dysfunction. No awareness of his own somatic state without external prompting and cognitive effort ("you gotta think").
 
 ---
 
 SECTION 8: ATHLETE DISCONNECTION PARADOX
 
-Observation: UH Volleyball Players
-Case 1: Female volleyball player
-- Running across street with food in hand
-- Knees driving body movement (knee-leading even while running)
-- Body rigid and straight (no spinal rotation despite dynamic movement)
+Observation: Individuals 
+Case 1: Volleyball player
+- Walking along the sidewalk adjacent to Kozo Sushi.
+- 6”0-6”4
+- Dark complexion
 - Hat stable (head locked in place)
-- Movement quality: "wasn't healthy"
+- Movement quality: [Not observed long enough]
+- ( I should have changed the subject after initiating verbal contact, the topic was the upcoming first game)
 
-Case 2: Female volleyball players (3 observed)
+
+Case 2: Volleyball players (3 observed)
 - Visible muscle definition and mass ("meat")
-- Walking pattern: heel-driven, dragging shoes/slippers
+- Walking pattern: heel-driven, almost dragging shoes/slippers
 - Not recruiting leg muscles despite having visible musculature
 - Walking with bottom of heels, feet being driven by heels (not hip/glute engagement)
 - Despite athletic training, showing anterior chain dominance
