@@ -27,7 +27,7 @@ Select a specific coordinate vector below to access the deep-core tracking sub-f
     *   [`theories/hypothesis-A.md`](theories/hypothesis-A.md) – Craniofacial alignment models, posture tracking, and public comprehension drop theories.
     *   [`theories/fluid-vacuum-threshold.md`](theories/fluid-vacuum-threshold.md) – Hydrostatic fluid velocity data and upper nasal cavity neural feedback analysis.
 
-     *   [theories/somatic-connectivity-theory.md](./theories/somatic-connectivity-theory.md) – {The plain-English overview explaining why 85%+ of modern people are disconnected from their bodies, how it starts between ages 10–16, and the Two-Tier motor control system.}
+     *   [theories/somatic-connectivity-theory.md](./theories/somatic_connectivity_theory.md) – {The plain-English overview explaining why 85%+ of modern people are disconnected from their bodies, how it starts between ages 10–16, and the Two-Tier motor control system.}
      *    [theories/somatic-technical-appendix.md](./theories/somatic-technical-appendix.md) – {The advanced neuroscience core breaking down Thomas Myers' fascia tracks, Polyvagal Theory, and the pelvic-occipital signaling pathway for academic peer review.}
      *     [theories/somatic-field-logs-100-500.md](./theories/somatic-field-logs-100-500.md) – {The chronological data timeline tracking the progressive physical shutdown from early posterior inhibition to acute facial dissociation.}
 
