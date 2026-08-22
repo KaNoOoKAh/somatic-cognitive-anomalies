@@ -240,7 +240,7 @@ Implication: At 85 years old, this person demonstrates complete interoceptive nu
 SECTION 8: ATHLETE DISCONNECTION PARADOX
 
 Observation: UH Volleyball Players
-Case 1: Male volleyball player
+Case 1: Female volleyball player
 - Running across street with food in hand
 - Knees driving body movement (knee-leading even while running)
 - Body rigid and straight (no spinal rotation despite dynamic movement)
