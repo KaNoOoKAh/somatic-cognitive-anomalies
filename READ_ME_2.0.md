@@ -1,3 +1,8 @@
+[CURRENTLY EDITING]
+I was speaking to text and words got mixed in.
+
+
+
 [🔗 Overview: For a simplified, real-world breakdown of this theory, return to the main README.md
 
 [NOT DONE] Somatic Connectivity Theory of Human Sensation Distribution
