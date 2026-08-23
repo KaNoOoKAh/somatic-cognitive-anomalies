@@ -1,6 +1,6 @@
 in order to make any changes you must fill out a questionnaire. look below
 
-Subject to Change | Subject to Influential Factorz
+Subject to Change | Subject to Influential Factaaahz
 
 QUESTIONNAIRE 
 Rules: 
