@@ -159,7 +159,14 @@ Venous return — the flow of blood back to the heart — is assisted by muscle 
 
 ### What to Watch For
 
-**Warning signs of circulatory emergency:**
+**Signs of circulatory response:**
+- Skin flushing, pallor, or mottling
+- Limb swelling, warmth, or unusual color change
+- Increased heart rate or pounding sensation
+- Lightheadedness when standing
+- Cold hands or feet with normal core temperature
+
+**Signs of circulatory emergency:**
 - Chest pain, pressure, or tightness — especially radiating to arm, jaw, or back
 - Sudden numbness, weakness, or paralysis on one side of the body
 - Sudden severe headache with no known cause
