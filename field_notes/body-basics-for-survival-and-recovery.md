@@ -119,7 +119,7 @@ Shallow chest breathing:
 
 ### Carbon Dioxide and Oxygen Balance
 
-Oxygen is delivered to tissues by red blood cells. Carbon dioxide is a waste product that must be expelled. These two gases are regulated together. Hyperventilation — breathing too fast or too shallow — can paradoxically reduce the oxygen available to tissues by lowering carbon dioxide too quickly, which causes blood vessels to constrict.
+Oxygen is delivered to tissues by red blood cells. Carbon dioxide is a waste product that must be expelled. These two gases are regulated together. Hyperventilation — breathing too fast or too deeply (over-breathing) — can paradoxically reduce the oxygen available to tissues by lowering carbon dioxide too quickly, which causes blood vessels to constrict. Hypoventilation — breathing too slowly or too shallowly — reduces oxygen intake and allows carbon dioxide to accumulate. Both are harmful in different ways.
 
 ### Practical Breathing Support
 - Practice slow diaphragmatic breathing: inhale through the nose, let the belly expand, exhale slowly.
