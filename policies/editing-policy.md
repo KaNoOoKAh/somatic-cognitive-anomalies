@@ -43,10 +43,17 @@ Documents may be used for comparison of raw speech, edited text, and observation
 ## 13. Non-Destructive Editing
 Do not overwrite the original voice of the speaker. Keep the original as a reference.
 
-## 14. Emotional Clarification
+## 14. Override Review Question
+Before any exception, bypass, or special-case edit is considered, the reviewer must answer:
+
+> What questions should be in this?
+
+This question must be used to determine whether the proposed change, override, or edit request is complete, understandable, and properly authorized.
+
+## 15. Emotional Clarification
 When emotions or feelings are described, preserve distinctions and note differences carefully.
 
-### 14.X Emotional Differentiation Question
+### 15.X Emotional Differentiation Question
 For each emotion or feeling you list, describe what felt different about it.
 
 Include:
@@ -59,8 +66,8 @@ At the end, answer:
 - If yes, what makes them different?
 - If no, why do they feel related or the same?
 
-## 15. Movement Observation
+## 16. Movement Observation
 When movement is described, note whether it seems automatic, guided, controlled, forced, or compensatory.
 
-## 16. Upload Labeling
+## 17. Upload Labeling
 Use consistent file names, dates, and labels so documents are easy to identify and compare later.
