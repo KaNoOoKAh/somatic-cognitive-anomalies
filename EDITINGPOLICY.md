@@ -10,4 +10,5 @@ Rules:
 * You MUST answer each question twice. Each answer must contain 7 verbs, no moah, no lessah.
 * Submit to repository owner for review, confirmation, and decision. Decision is subject to concentration and mood swings.
 * Only individuals subjected to this behavioral-process are individuals still operating under internal and external pressure..,
+* if you read the rule or policy stated above this and didn’t notice anything wrong then you is maayjaah! 
 * #KANoOoKAh & #ICeI3 | #Gemini | #Copilot | #Kognitive_FUnCTIoN ..,
