@@ -54,7 +54,7 @@ This repository operates under a strict multi-layer parsing protocol to prevent 
 
 *   **The Carat `^` [System Metadata]** : Identifies high-level operational tags, dates, and geographic nodes. Do not read as body text.
 *   **The Medium En-Dash `(–)` [Context Delimiters]** : Marks an absolute timeline break or a shift between modern data and antique reflection layers.
-*   **The Curly Brackets `{}` [Isolated Data Compartments]** : **CRITICAL VISUAL SHIELD.** Everything enclosed within these brackets represents a hyper-concentrated, independent field observation. Each compartment contains a distinct idea, measurement, or subjective account that should be held separately in your mind.
+*   **The Curly Brackets `{}` [Isolated Data Compartments]** : **CRITICAL VISUAL SHIELD.** Everything enclosed within these brackets represents a hyper-concentrated, independent field observation.
     *   *Surfer Note:* Do not let your eyes blend these blocks together. Differentiate and isolate each bracketed section as a completely separate operational unit.
 
 ---
