@@ -18,5 +18,5 @@ This repository does not constitute professional medical, psychological, or lega
 ---
 
 **Last Updated:** August 24, 2026  
-**Repository Owner:** kanoookah  
+**Repository Owner:** KAnoOoKAh  
 **Status:** Active Research Phase
