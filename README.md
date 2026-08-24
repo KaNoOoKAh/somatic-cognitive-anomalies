@@ -116,6 +116,7 @@ Global tracking of environmental anomalies, governmental responses, and systemat
 - [`README.md`](field_notes/README.md) – Navigation guide for field notes section
 - [`environmental-anomaly-watch.md`](field_notes/environmental-anomaly-watch.md) – Systematic documentation of environmental and societal anomalies
 - [`media_standards.md`](field_notes/media_standards.md) – Standards and guidelines for media evaluation and critical analysis
+- [`transcripts_05_kcc_botany_lecture_2026_08_24.md`](field_notes/transcripts_05_kcc_botany_lecture_2026_08_24.md) – Continuous 20-segment synchronous lecture file...
 
 **Purpose:** Collect structured research on global events, observation data, and governmental responses across different regions and civilizations.
 
