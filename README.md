@@ -8,24 +8,33 @@ The research explores how physical body awareness, cognitive function, and envir
 
 ---
 
-## 📡 SYSTEM NAVIGATION BLUEPRINT (READ BEFORE SCANNING)
+## 🔑 Key Research Concepts
 
-This repository operates under a strict multi-layer parsing protocol to prevent data fragmentation. As you navigate these documents, your mind must utilize the following structural perimeters:
+### **The Core Disconnection Problem**
 
-*   **The Carat `^` [System Metadata]** : Identifies high-level operational tags, dates, and geographic nodes. Do not read as body text.
-*   **The Medium En-Dash `(–)` [Context Delimiters]** : Marks an absolute timeline break or a shift between modern data and antique reflection layers.
-*   **The Curly Brackets `{}` [Isolated Data Compartments]** : **CRITICAL VISUAL SHIELD.** Everything enclosed within these brackets represents a hyper-concentrated, independent field observation. Each compartment contains a distinct idea, measurement, or subjective account that should be held separately in your mind.
-    *   *Surfer Note:* Do not let your eyes blend these blocks together. Differentiate and isolate each bracketed section as a completely separate operational unit.
+Approximately 85%+ of modern populations experience a fundamental disconnection from their somatic (body-based) awareness. This manifests as:
 
----
+- Loss of proprioceptive awareness (sense of body position in space)
+- Fragmented attention and difficulty with deep focus
+- Postural degeneration and craniofacial misalignment
+- Cognitive delays and comprehension gaps
+- Systemic dysregulation across multiple body systems
 
-## ⚖️ ADMINISTRATIVE & OPERATIONAL DISCLAIMER
+### **The Hypothesis Framework**
 
-**^ SECURITY PROTOCOL: REDACTED-CLEAN / ADMINISTRATIVE TIMELINE PROTECTED**
+**Hypothesis A** proposes that:
+1. Modern low-friction environments eliminate natural movement patterns
+2. This causes progressive craniofacial and postural collapse
+3. Physical misalignment disrupts neural pathways and cognitive function
+4. The result is measurable drops in attention capacity and comprehension
 
-The documents, logs, and correspondence archived within this repository represent formal notices of operational deficiencies, administrative interactions, and longitudinal observational data. All materials are presented for research, documentation, and transparency purposes. Readers are advised to engage critically with the content and understand the context in which these observations were recorded.
+### **Somatic Connectivity Theory**
 
-This repository does not constitute professional medical, psychological, or legal advice. The theories and hypotheses presented are research frameworks and should be evaluated in that context.
+The theory that embodied awareness (connection to bodily sensation) directly correlates with:
+- Cognitive performance and clarity
+- Emotional regulation and resilience
+- Attention span and focus capacity
+- Systemic health across all body systems
 
 ---
 
@@ -36,6 +45,17 @@ This repository does not constitute professional medical, psychological, or lega
 - **Live Field Observations:** See [`READ_ME_2.0.md`](READ_ME_2.0.md) for detailed entries from 08/21/2026 onwards
 - **Primary Hypothesis Focus:** Hypothesis A (Craniofacial alignment models and cognitive awareness pathways)
 - **Research Phase:** Active data collection and analysis
+
+---
+
+## 📡 SYSTEM NAVIGATION BLUEPRINT
+
+This repository operates under a strict multi-layer parsing protocol to prevent data fragmentation. As you navigate these documents, your mind must utilize the following structural perimeters:
+
+*   **The Carat `^` [System Metadata]** : Identifies high-level operational tags, dates, and geographic nodes. Do not read as body text.
+*   **The Medium En-Dash `(–)` [Context Delimiters]** : Marks an absolute timeline break or a shift between modern data and antique reflection layers.
+*   **The Curly Brackets `{}` [Isolated Data Compartments]** : **CRITICAL VISUAL SHIELD.** Everything enclosed within these brackets represents a hyper-concentrated, independent field observation. Each compartment contains a distinct idea, measurement, or subjective account that should be held separately in your mind.
+    *   *Surfer Note:* Do not let your eyes blend these blocks together. Differentiate and isolate each bracketed section as a completely separate operational unit.
 
 ---
 
@@ -123,6 +143,7 @@ Administrative, legal, and operational correspondence:
 
 - [`judicial–submission.md`](notes/judicial–submission.md) – Chronological audit trail of formal operational deficiencies notice (transmitted July 3, 2026)
 - [`judicial–followup–friction.md`](notes/judicial–followup–friction.md) – Follow-up correspondence and administrative friction documentation
+- [`ADMINISTRATIVE_DISCLAIMER.md`](notes/ADMINISTRATIVE_DISCLAIMER.md) – Official disclaimer and legal context
 
 #### **Movement Notes** → [`notes/movement/`](notes/movement/)
 
@@ -148,36 +169,6 @@ Documentation of operational standards and protocols (section under development)
 
 ---
 
-## 🔑 Key Research Concepts
-
-### **The Core Disconnection Problem**
-
-Approximately 85%+ of modern populations experience a fundamental disconnection from their somatic (body-based) awareness. This manifests as:
-
-- Loss of proprioceptive awareness (sense of body position in space)
-- Fragmented attention and difficulty with deep focus
-- Postural degeneration and craniofacial misalignment
-- Cognitive delays and comprehension gaps
-- Systemic dysregulation across multiple body systems
-
-### **The Hypothesis Framework**
-
-**Hypothesis A** proposes that:
-1. Modern low-friction environments eliminate natural movement patterns
-2. This causes progressive craniofacial and postural collapse
-3. Physical misalignment disrupts neural pathways and cognitive function
-4. The result is measurable drops in attention capacity and comprehension
-
-### **Somatic Connectivity Theory**
-
-The theory that embodied awareness (connection to bodily sensation) directly correlates with:
-- Cognitive performance and clarity
-- Emotional regulation and resilience
-- Attention span and focus capacity
-- Systemic health across all body systems
-
----
-
 ## 🚀 How to Navigate This Repository
 
 ### **For New Researchers:**
@@ -199,7 +190,8 @@ The theory that embodied awareness (connection to bodily sensation) directly cor
 ### **For Administrative Context:**
 1. Review [`notes/judicial–submission.md`](notes/judicial–submission.md)
 2. Check [`notes/judicial–followup–friction.md`](notes/judicial–followup–friction.md)
-3. See [`EDITINGPOLICY.md`](EDITINGPOLICY.md)
+3. Read [`notes/ADMINISTRATIVE_DISCLAIMER.md`](notes/ADMINISTRATIVE_DISCLAIMER.md)
+4. See [`EDITINGPOLICY.md`](EDITINGPOLICY.md)
 
 ---
 
@@ -243,15 +235,6 @@ The theory that embodied awareness (connection to bodily sensation) directly cor
 This is an active research repository. Documentation is being continuously updated as new observations and analyses are completed.
 
 For inquiries or contributions, please refer to the repository's [Issues](https://github.com/KaNoOoKAh/somatic-cognitive-anomalies/issues) section.
-
----
-
-## ⚠️ Important Notes
-
-- All theories presented here are research hypotheses and frameworks for investigation
-- Field observations are documented as recorded; interpretation requires critical engagement
-- Administrative materials are included for transparency and historical documentation
-- This repository is public and serves educational and research purposes
 
 ---
 
