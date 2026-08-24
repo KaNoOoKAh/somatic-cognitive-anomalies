@@ -1,4 +1,4 @@
-# Somatic-Cognitive-Anomalies
+# Somatic-Cognitive-Function
 
 ## 🌐 Project Overview
 
