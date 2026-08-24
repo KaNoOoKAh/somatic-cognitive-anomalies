@@ -9,7 +9,9 @@
 ## Metadata
 - **Date:** August 24, 2026
 - **Time:** 09:17 AM HST
-- **Location:** Honolulu, Hawaii, 96816-96815
+- **Location:** Honolulu, Hawaii,
+-  **Subject Demographics:** Mixed geographic origins / Diverse age cohorts
+
 
 ---
 
