@@ -51,3 +51,15 @@ Our target analytical run utilizes the 20-segment `transcripts_05_kcc_botany_lec
 ## Directory Pipeline
 *   `field_notes/`
     *   `transcripts_05_kcc_botany_lecture_2
+
+### Mechanical Profiles: Verbatim Scripting vs. Dynamic Material Navigation
+
+To evaluate if the speaker is executing real-time cognitive processing or passive visual transmission, our codebook categorizes verbal outputs into two distinct structural modes:
+
+1.  **Verbatim Script Reading (Static Oculomotor Loop):**
+    *   **Mechanism:** The speaker reads directly from a previously built lecture script, rigid slide text, or static laboratory manual. 
+    *   **Data Profile:** Highly uniform pacing, near-zero grammatical repairs (stutters or self-corrections), and strict adherence to technical definitions. The neurological load shifts from linguistic generation to linear visual scanning (**"using eyes more than brain"**).
+    
+2.  **Dynamic Material Synthesis (Active Memory Mapping):**
+    *   **Mechanism:** The speaker scans open lab pages, live diagrams, or shifting visual fields (e.g., active iNaturalist geographic maps) and uses those visual anchors as prompts to synthesize explanations directly from internal memory networks.
+    *   **Data Profile:** High pacing variability, spontaneous colloquial interruptions, real-time analogies (e.g., the "Pac-Man" memory pruning metaphor), and personal anecdotal integration (e.g., family genealogical ties to sugarcane fields). The eyes act as an environmental trigger, but the brain actively drives real-time structural assembly.
