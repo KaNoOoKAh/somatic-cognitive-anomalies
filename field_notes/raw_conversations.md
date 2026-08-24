@@ -25,3 +25,24 @@
 **Interviewer:** What is one of those new areas that you’re talking about?  
 
 **Individual Two:** All of hawaii I just moved here from a very small island and so I don’t really know the area and I’m unfamiliar with the people so it’s a big big change for me
+
+## Conversation 3: Individual Three (Uber Driver)
+**Topic:** Latent Cognitive Anchors, Long-Term Geographic Transition, & Speech Retrieval Load
+
+**Context:** The subject is a male Uber driver who moved from Rhode Island to Hawaii 13–14 years ago (circa 2012–2013). The conversation tracks his seamless long-term adaptation alongside a specific childhood memory anchor and real-time physical/cognitive speech shifts during past-recollection. The interviewer provided a $100 tip post-interaction.
+
+**Interviewer:** [Inquired about feelings of discomfort during the long-term transition from Rhode Island to Hawaii]
+
+**Individual Three:** [Stated he was never uncomfortable and noted he has been living in Hawaii for 13 to 14 years.]
+
+**Interviewer:** [Explored specific coping mechanisms or mindsets during the transition]
+
+**Individual Three:** [Shared a childhood memory from when he was 13 or 14 years old, recalling a specific fortune cookie message that stated he was "welcome at any party."]
+
+**Interviewer:** [Inquired if that specific fortune cookie message actively shaped his personality or confidence level]
+
+**Individual Three:** No. [Indicated he did not think it actively shaped his personality, but affirmed that he always remembered it.]
+
+**Interviewer:** [Prompted for further details regarding his life, past experiences, and background in Rhode Island]
+
+**Individual Three:** [Began stuttering and hesitating noticeably when retrieving details and speaking about his distant past.]
