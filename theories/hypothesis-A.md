@@ -1,18 +1,18 @@
-Subject: URGENT SUBMISSION: Public Health Observations, Firsthand Accounts, and Comprehensive Multi-Systemic Analysis Regarding Population-Wide Degradation, Ocular Drift, and Environmental Shifts
+## Subject: URGENT SUBMISSION: Public Health Observations, Firsthand Accounts, and Comprehensive Multi-Systemic Analysis Regarding Population-Wide Degradation, Ocular Drift, and Environmental Shifts
 
 Aloha everybody,
 
      I am writing to formally submit a series of detailed field observations, a firsthand account of my own investigations, and an accompanying theoretical framework regarding widespread behavioral, physical, and cognitive shifts observed within the population over recent years. This situation is severe and requires immediate, objective, and institutional assistance. I demand that these points be routed to the appropriate epidemiological, neurological, or public health research divisions for formal review, and that the responding analysts provide a factual, honest evaluation completely unhindered by bureaucratic hesitation or emotional bias.
 
-Part I: Core Field Observations
+## Part I: Core Field Observations
 
 Over the recent period, I have documented several specific, recurring anomalies across various demographics, public spaces, and media publications (including national periodicals such as People Magazine):
 
-Ocular Alignment Anomalies: 
+## Ocular Alignment Anomalies: 
 
 A highly visible, widespread tendency for individuals' left eyes to intermittently or permanently wander or drift out of alignment.
 
- Speech and Processing Shifts:
+ ## Speech and Processing Shifts:
  
  A collective alteration in how the population talks, moves, and processes information. By manifesting a pronounced "think before you speak and act" behavioral pattern, I theorize that addressing this will help the mental and physical health of a lot of people. I am suggesting that a fundamental shift in baseline cognitive and motor processing speeds has changed across the population for entirely unknown reasons.
 I’ve noticed people responding in different ways and comprehension levels have plummeted in different environments. Even if the individuals are highly educated and skilled they responded in a weird uneducated kind of way.
