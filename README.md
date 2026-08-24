@@ -2,7 +2,7 @@
 
 ## 🌐 Project Overview
 
-This repository contains research tracking **emergent somatic anomalies**, **cognitive shifts**, and **respiratory resonance vectors** across modern, low-friction environments. This multi-layer framework bridges operational field data with historical processing models to analyze human attention redistribution and systemic awareness gaps.
+This repository contains research tracking **emergent somatic function**, **cognitive shifts**, and **respiratory resonance vectors** across modern, low-friction environments. This multi-layer framework bridges operational field data with historical processing models to analyze human attention redistribution and systemic awareness gaps.
 
 The research explores how physical body awareness, cognitive function, and environmental factors interconnect in creating patterns of disconnection and systemic dysregulation in contemporary populations.
 
@@ -234,10 +234,10 @@ Documentation of operational standards and protocols (section under development)
 
 This is an active research repository. Documentation is being continuously updated as new observations and analyses are completed.
 
-For inquiries or contributions, please refer to the repository's [Issues](https://github.com/KaNoOoKAh/somatic-cognitive-anomalies/issues) section.
+For inquiries or contributions, please refer to the repository's [Issues](https://github.com/kanoookah/somatic-cognitive-function/issues) section.
 
 ---
 
 **Last Updated:** August 24, 2026  
-**Repository Owner:** KaNoOoKAh  
+**Repository Owner:** kanoookah  
 **Status:** Active Research Phase
