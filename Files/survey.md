@@ -50,19 +50,31 @@
 - [ ] Slightly better
 - [ ] Much better
 
----
+**6. Do you feel like your in complete control of your extremities when you walk?** 
+-  [ ] Yes [ ]No
+
+**7. When you are walking, where does it feel like your control is concentrated?** 
+- [ ] Hips
+- [ ] Neck
+- [ ] Dominant side
+- [ ] Knees
+- [ ] Ankles
+
+**8. Can you try to visualize what movements need to be completed in order to properly maintain control of any/all moving parts.** 
+- [ ] yes [ ] no
+  ---
 
 ## Section 4: Somatic–Cognitive Interaction
 
-**6. Have you noticed a direct link between physical sensations and your ability to think clearly?**  
+**9. Have you noticed a direct link between physical sensations and your ability to think clearly?**  
 *(Open-ended response)*  
 > 
 
-**7. When you feel physically uncomfortable or unwell, how does it affect your decision-making?**  
+**10. When you feel physically uncomfortable or unwell, how does it affect your decision-making?**  
 *(Open-ended response)*  
 > 
 
-**8. What personal strategies do you use to improve both physical comfort and mental clarity simultaneously?**  
+**11. What personal strategies do you use to improve both physical comfort and mental clarity simultaneously?**  
 *(Open-ended response)*  
 > 
 
@@ -99,7 +111,7 @@
 - **Anonymous ID:** `[First 2 letters of mother's name] + [Birth month number] + [Favorite color]` *(e.g., MA04BLUE)*
 
 **3. Preferred Follow-Up Notification (Optional)**
-- [ ] Watch/Star this GitHub Repository for the follow-up issue post
+
 - [ ] Email reminder: `________________________` *(Stored confidentially; never published in raw dataset)*
 
 - [ ] I consent to having my anonymized submission stored and published in this open GitHub repository for research and educational purposes.
