@@ -1,8 +1,8 @@
-# KCC General Botany (BOT) — Lecture Transcript Log
+#  General Botany (BOT) — Lecture Transcript Log
 *   **Date:** Monday, August 24, 2026  
 *   **Session Window:** 10:00 AM – 12:00 PM HST (Live Synchronous Zoom)  
 *   **Methodology:** Continuous real-time mobile talk-to-text data capture.  
-*   **Pacing Analytics:** 4,759 cumulative words captured over a 30.36-minute active recording stream (~140.1 Words Per Minute average velocity).
+*   **Pacing Analytics:** 4,759 cumulative words captured over a 30.36-minute active talk-text recording stream (~140.1+ Words Per Minute average velocity).
 
 ---
 
