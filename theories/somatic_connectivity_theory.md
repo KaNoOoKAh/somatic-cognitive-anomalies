@@ -10,28 +10,32 @@ Location: Honolulu, Oahu
 This repository presents a theoretical model describing how human internal sensations distribute through the body during moments of heightened autonomic activation. The theory proposes that sensation is not isolated to one region but follows predictable pathways shaped by posture, fascia networks, muscle chains, interoception, and nervous‑system connectivity.
 
 # Personal Note:  
-I wrote this theory because I’ve always been curious about how people feel sensations differently across their bodies. Sometimes a feeling (sensation/orgasm/sneeze/hiccup/gag/reflex/muscle spasm/cough/(not finished(stays in one place, and other times it spreads everywhere. I wanted to understand why some people feel “connected” in certain areas and “disconnected” in others, and how posture, breathing, age, and the nervous system shape those experiences. This theory is my attempt to explain those patterns in normal, everyday words.)
+I wrote this theory because I’ve always been curious about how people feel sensations differently across their bodies. Sometimes a feeling (sensation/sneeze/hiccup/gag/reflex/cough/hit/bump/movement) (muscle spasm/orgasm/involuntary reaction) stays in one place, and other times it spreads everywhere. 
+
+I wanted to understand why some people feel “connected” in certain areas and “disconnected” in others, and how posture, breathing, age, and the nervous system shape those experiences. 
+
+This theory is my attempt to explain those patterns in normal, everyday words.
 
 
 # Core Hypothesis
 Human sensation is distributed through interconnected somatic pathways.
 The degree to which a sensation becomes “full‑body” or remains localized depends on:
 
-* # Concentration Levels
+Concentration/effort levels
 
-+ # Interoceptive Awareness
+Interoceptive awareness
 
-+ # Posture & Muscle Engagement
+Posture & muscle engagement
 
-+ # Fascia Tension Lines
+Fascia tension lines
   
-+ # Autonomic Nervous System Activation & Awareness
+Autonomic nervous system activation & awareness
 
-+ # Nerve Sensitivity
+Nerve sensitivity
 
-* # Attention & Knowledge of EachEmotional state
+* # Attention & Knowledge of Each Emotional state
 
-These factors create an individual’s somatic connectivity map. Which also gives us the ability to sense internal and external dangers.
+These factors create an individual’s somatic connectivity map. Which also gives us the ability to sense internal and external dangers. While maintaining constant energy absorption, distribution, and release.   
 
 * # Mechanisms of Sensation Distribution
 
@@ -44,7 +48,7 @@ These factors create an individual’s somatic connectivity map. Which also give
 # 2. Fascia Networks
 # Fascia is a continuous connective tissue web forming around and linking:
 
-- Skin, Tissues, Bones, Muscles, Organs, 
+- Skin, Tissues, Bones, Muscles, Organs.
 
 # Fascia Network Note:
 
