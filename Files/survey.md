@@ -114,4 +114,4 @@
 
 - [ ] Email reminder: `________________________` *(Stored confidentially; never published in raw dataset)*
 
-- [ ] I consent to having my anonymized submission stored and published in this open GitHub repository for research and educational purposes.
+- [ ] I consent to having my anonymized submission stored and published for research and educational purposes.
