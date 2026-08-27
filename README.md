@@ -2,7 +2,7 @@
 
 ## 🌐 Project Overview
 
-This repository contains research tracking **emergent somatic function**, **cognitive shifts**, and **respiratory resonance vectors** across modern, low-friction environments. This multi-layer framework bridges operational field data with historical processing models to analyze human attention redistribution and systemic awareness gaps.
+This repository contains research tracking **emergent somatic function**, **cognitive shifts**, and **respiratory resonance vectors** across modern, low-friction environments. This multi-layer framework documents observational material, theoretical models, and active research notes in one place.
 
 The research explores how physical body awareness, cognitive function, and environmental factors interconnect in creating patterns of disconnection and systemic dysregulation in contemporary populations.
 
@@ -40,9 +40,10 @@ The theory that embodied awareness (connection to bodily sensation) directly cor
 
 ## 📊 Repository Status
 
-- **Last Updated:** August 24, 2026
+- **Last Updated:** August 27, 2026
 - **Active Documentation:** README.md (this file)
 - **Live Field Observations:** See [`READ_ME_2.0.md`](READ_ME_2.0.md) for detailed entries from 08/21/2026 onwards
+- **Observations Folder:** See [`observations/`](observations/) for the current observation files
 - **Primary Hypothesis Focus:** Hypothesis A (Craniofacial alignment models and cognitive awareness pathways)
 - **Research Phase:** Active data collection and analysis
 
@@ -109,16 +110,14 @@ Philosophical and practical research on attention, care, and responsive systems:
 
 ### **📁 FIELD NOTES & OBSERVATIONS**
 
-#### **Field Notes Directory** → [`field_notes/`](field_notes/)
+#### **Observations Directory** → [`observations/`](observations/)
 
-Global tracking of environmental anomalies, governmental responses, and systematic patterns:
+Current observation files:
 
-- [`README.md`](field_notes/README.md) – Navigation guide for field notes section
-- [`environmental-anomaly-watch.md`](field_notes/environmental-anomaly-watch.md) – Systematic documentation of environmental and societal anomalies
-- [`media_standards.md`](field_notes/media_standards.md) – Standards and guidelines for media evaluation and critical analysis
-- [`transcripts_05_kcc_botany_lecture_2026_08_24.md`](field_notes/transcripts_05_kcc_botany_lecture_2026_08_24.md) – Continuous 20-segment synchronous lecture file...
+- [`field_observations_interoception.md`](observations/field_observations_interoception.md) – Interoception and field observation notes
+- [`tactile_sensitivty..Md,`](observations/tactile_sensitivty..Md,) – Tactile sensitivity observation notes
 
-**Purpose:** Collect structured research on global events, observation data, and governmental responses across different regions and civilizations.
+**Purpose:** Collect structured observation data and related analysis.
 
 ---
 
@@ -181,7 +180,7 @@ Documentation of operational standards and protocols (section under development)
 ### **For Technical Deep Dives:**
 1. Consult [`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md) for advanced neuroscience
 2. Review trial data in [`trials/`](trials/)
-3. Examine field observations in [`field_notes/`](field_notes/)
+3. Examine field observations in [`observations/`](observations/)
 
 ### **For Philosophical Context:**
 1. Explore [`research/love-as-responsive-presence/`](research/love-as-responsive-presence/)
@@ -226,7 +225,8 @@ Documentation of operational standards and protocols (section under development)
 - **Technical Details:** [`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md)
 - **Trial Data:** [`trials/trial-001.md`](trials/trial-001.md) | [`trials/trials–002.md`](trials/trials–002.md)
 - **Philosophy:** [`research/love-as-responsive-presence/manifesto.md`](research/love-as-responsive-presence/manifesto.md)
-- **Field Observations:** [`field_notes/environmental-anomaly-watch.md`](field_notes/environmental-anomaly-watch.md)
+- **Field Observations:** [`observations/field_observations_interoception.md`](observations/field_observations_interoception.md)
+- **Field Observations:** [`observations/tactile_sensitivty..Md,`](observations/tactile_sensitivty..Md,)
 - **Administrative:** [`notes/judicial–submission.md`](notes/judicial–submission.md)
 
 ---
@@ -239,6 +239,6 @@ For inquiries or contributions, please refer to the repository's [Issues](https:
 
 ---
 
-**Last Updated:** August 24, 2026  
+**Last Updated:** August 27, 2026  
 **Repository Owner:** kanoookah  
 **Status:** Active Research Phase
