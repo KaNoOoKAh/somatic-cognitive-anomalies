@@ -43,7 +43,7 @@ The theory that embodied awareness (connection to bodily sensation) directly cor
 - **Last Updated:** August 27, 2026
 - **Active Documentation:** README.md (this file)
 - **Live Field Observations:** See [`READ_ME_2.0.md`](READ_ME_2.0.md) for detailed entries from 08/21/2026 onwards
-- **Observations Folder:** See [`observations/`](observations/) for the current observation files
+- **Personal Observations Folder:** See [`personal_observations/`](personal_observations/) for the current observation files
 - **Primary Hypothesis Focus:** Hypothesis A (Craniofacial alignment models and cognitive awareness pathways)
 - **Research Phase:** Active data collection and analysis
 
@@ -108,16 +108,17 @@ Philosophical and practical research on attention, care, and responsive systems:
 
 ---
 
-### **📁 FIELD NOTES & OBSERVATIONS**
+### **📁 PERSONAL OBSERVATIONS**
 
-#### **Observations Directory** → [`observations/`](observations/)
+#### **Personal Observations Directory** → [`personal_observations/`](personal_observations/)
 
 Current observation files:
 
-- [`field_observations_interoception.md`](observations/field_observations_interoception.md) – Interoception and field observation notes
-- [`tactile_sensitivty..Md,`](observations/tactile_sensitivty..Md,) – Tactile sensitivity observation notes
+- [`README.md`](personal_observations/README.md) – Navigation guide for the personal observations section
+- [`field_observations_interoception.md`](personal_observations/field_observations_interoception.md) – Interoception and field observation notes
+- [`tactile_sensitivty..Md,`](personal_observations/tactile_sensitivty..Md,) – Tactile sensitivity observation notes
 
-**Purpose:** Collect structured observation data and related analysis.
+**Purpose:** Collect structured first-person observation data and related analysis.
 
 ---
 
@@ -180,7 +181,7 @@ Documentation of operational standards and protocols (section under development)
 ### **For Technical Deep Dives:**
 1. Consult [`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md) for advanced neuroscience
 2. Review trial data in [`trials/`](trials/)
-3. Examine field observations in [`observations/`](observations/)
+3. Examine field observations in [`personal_observations/`](personal_observations/)
 
 ### **For Philosophical Context:**
 1. Explore [`research/love-as-responsive-presence/`](research/love-as-responsive-presence/)
@@ -225,8 +226,8 @@ Documentation of operational standards and protocols (section under development)
 - **Technical Details:** [`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md)
 - **Trial Data:** [`trials/trial-001.md`](trials/trial-001.md) | [`trials/trials–002.md`](trials/trials–002.md)
 - **Philosophy:** [`research/love-as-responsive-presence/manifesto.md`](research/love-as-responsive-presence/manifesto.md)
-- **Field Observations:** [`observations/field_observations_interoception.md`](observations/field_observations_interoception.md)
-- **Field Observations:** [`observations/tactile_sensitivty..Md,`](observations/tactile_sensitivty..Md,)
+- **Field Observations:** [`personal_observations/field_observations_interoception.md`](personal_observations/field_observations_interoception.md)
+- **Field Observations:** [`personal_observations/tactile_sensitivty..Md,`](personal_observations/tactile_sensitivty..Md,)
 - **Administrative:** [`notes/judicial–submission.md`](notes/judicial–submission.md)
 
 ---
