@@ -4,15 +4,15 @@ Abstract
 ### Location: First Circuit Court, Honolulu, Hawaii
 
 #### Reason for Being at Location:
-Getting served a summons to appear at court on 09/09/2026.
+Getting served a summons to appear at court on 09/09/2026 @ 2:30pm.
 
 While also showing presence, accountability, street smarts, and m”_F”_in stature..,
 
 ### Reason for Writing that ^: 
 
-Trying to be an adult. No matter what the situation is. Help and show love to everything around us..,
+Trying to be a real person. No matter what the situation is. Help and show love to everything around us..,
 
-# ADDITIONAL INFORMATION: ### I wanna say I think I look damn good in dress shoes, pants, and shirt. I look better when I rotate my shoulders forward and back when my arms are swaying at my side. My lega and rest of my body still look a little stiff. I forgot to prep my lips and face though, damn…
+# ADDITIONAL INFORMATION: I wanna say I think I feel good in dress shoes, pants, and shirt. (editing)..,
 
 #### Hypothesis:
 
