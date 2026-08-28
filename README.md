@@ -2,7 +2,7 @@
 
 ## 🌐 Project Overview
 
-This repository contains research tracking **emergent somatic function**, **cognitive shifts**, and **respiratory resonance vectors** across modern, low-friction environments. This multi-layer framework documents observational material, theoretical models, and active research notes in one place.
+This repository contains research tracking **emergent somatic function**, **cognitive shifts**, and **respiratory resonance vectors** across modern, low-friction environments. This multi-layer framework bridges operational field data with historical processing models to analyze human attention redistribution and systemic awareness gaps.
 
 The research explores how physical body awareness, cognitive function, and environmental factors interconnect in creating patterns of disconnection and systemic dysregulation in contemporary populations.
 
@@ -40,7 +40,7 @@ The theory that embodied awareness (connection to bodily sensation) directly cor
 
 ## 📊 Repository Status
 
-- **Last Updated:** August 27, 2026
+- **Last Updated:** August 28, 2026
 - **Active Documentation:** README.md (this file)
 - **Live Field Observations:** See [`READ_ME_2.0.md`](READ_ME_2.0.md) for detailed entries from 08/21/2026 onwards
 - **Personal Observations Folder:** See [`personal_observations/`](personal_observations/) for the current observation files
@@ -117,6 +117,7 @@ Current observation files:
 - [`README.md`](personal_observations/README.md) – Navigation guide for the personal observations section
 - [`field_observations_interoception.md`](personal_observations/field_observations_interoception.md) – Interoception and field observation notes
 - [`tactile_sensitivty..Md,`](personal_observations/tactile_sensitivty..Md,) – Tactile sensitivity observation notes
+- [`2026-08-28_somatic_sensation_distribution_event.md`](personal_observations/2026-08-28_somatic_sensation_distribution_event.md) – Somatic sensation distribution event note
 
 **Purpose:** Collect structured first-person observation data and related analysis.
 
@@ -228,6 +229,7 @@ Documentation of operational standards and protocols (section under development)
 - **Philosophy:** [`research/love-as-responsive-presence/manifesto.md`](research/love-as-responsive-presence/manifesto.md)
 - **Field Observations:** [`personal_observations/field_observations_interoception.md`](personal_observations/field_observations_interoception.md)
 - **Field Observations:** [`personal_observations/tactile_sensitivty..Md,`](personal_observations/tactile_sensitivty..Md,)
+- **Field Observations:** [`personal_observations/2026-08-28_somatic_sensation_distribution_event.md`](personal_observations/2026-08-28_somatic_sensation_distribution_event.md)
 - **Administrative:** [`notes/judicial–submission.md`](notes/judicial–submission.md)
 
 ---
@@ -240,6 +242,6 @@ For inquiries or contributions, please refer to the repository's [Issues](https:
 
 ---
 
-**Last Updated:** August 27, 2026  
+**Last Updated:** August 28, 2026  
 **Repository Owner:** kanoookah  
 **Status:** Active Research Phase
