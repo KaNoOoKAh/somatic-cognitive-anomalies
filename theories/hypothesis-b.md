@@ -4,7 +4,7 @@ Abstract
 ### Location: First Circuit Court, Honolulu, Hawaii
 
 #### Reason for Being at Location:
-Getting served a summons to appear at court on 09/09/2026 @ 2:30pm.
+Getting served a summons to appear at court in a week or two.
 
 While also showing presence, accountability, street smarts, and m”_F”_in stature..,
 
