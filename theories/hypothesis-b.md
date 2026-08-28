@@ -1,8 +1,8 @@
 # Hypothesis: Somatic Expansion Mechanics and Intersubjective Energy Regulation
 Abstract
-# Date: 08/28/2026
-# Location: First Circuit Court, Honolulu, Hawaii
-# Reason: Getting served a summons to appear at court on 09/09/2026.
+## Date: 08/28/2026
+## Location: First Circuit Court, Honolulu, Hawaii
+## Reason: Getting served a summons to appear at court on 09/09/2026.
 
 
 This proposal investigates the physiological and behavioral consequences of intentionally shifting somatic pressure states from internal concentration to a whole-body outward expression. 
@@ -11,13 +11,13 @@ Preliminary self-observation suggests that conscious alterations in somatic tens
 Core Premises
 
 
-# Internal vs. Outward Pressure States:
+## Internal vs. Outward Pressure States:
 Individuals typically operate under an internalized somatic focus (inward pressure). Transitioning to a whole-body outward projection alters biomechanical posture, subtle neuromuscular signals, and perceived presence.
 
-# Non-Verbal Interpersonal Feedback:
+## Non-Verbal Interpersonal Feedback:
 Observers or passersby (such as runners or pedestrians) exhibit micro-avoidance behaviors—specifically unconscious gaze aversion—when encountering an individual actively maintaining an outward somatic pressure state.
 
-# Holistic Energy Exchange: 
+## Holistic Energy Exchange: 
 Sensory organs, the spinal column, and dermal interfaces function not merely as receptive units, but as dynamic transducers capable of bidirectional energetic regulation across internal and external boundaries.
 
 
