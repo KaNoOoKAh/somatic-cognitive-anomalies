@@ -6,7 +6,9 @@ Abstract
 #### Reason for Being at Location:
 Getting served a summons to appear at court in a week or two.
 
-While also showing presence, accountability, street smarts, and m”_F”_in stature..,
+To properly identify any issues or problems with more of the population. 
+
+Showing presence while exhibiting different forms of postures and energy.
 
 ### Reason for Writing that ^: 
 
