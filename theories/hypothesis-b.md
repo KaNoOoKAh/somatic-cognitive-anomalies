@@ -11,15 +11,20 @@ Preliminary self-observation suggests that conscious alterations in somatic tens
 Core Premises
 
 
-Internal vs. Outward Pressure States: Individuals typically operate under an internalized somatic focus (inward pressure). Transitioning to a whole-body outward projection alters biomechanical posture, subtle neuromuscular signals, and perceived presence.
+# Internal vs. Outward Pressure States:
+Individuals typically operate under an internalized somatic focus (inward pressure). Transitioning to a whole-body outward projection alters biomechanical posture, subtle neuromuscular signals, and perceived presence.
 
-Non-Verbal Interpersonal Feedback: Observers or passersby (such as runners or pedestrians) exhibit micro-avoidance behaviors—specifically unconscious gaze aversion—when encountering an individual actively maintaining an outward somatic pressure state.
+# Non-Verbal Interpersonal Feedback:
+Observers or passersby (such as runners or pedestrians) exhibit micro-avoidance behaviors—specifically unconscious gaze aversion—when encountering an individual actively maintaining an outward somatic pressure state.
 
-Holistic Energy Exchange: Sensory organs, the spinal column, and dermal interfaces function not merely as receptive units, but as dynamic transducers capable of bidirectional energetic regulation across internal and external boundaries.
+# Holistic Energy Exchange: 
+Sensory organs, the spinal column, and dermal interfaces function not merely as receptive units, but as dynamic transducers capable of bidirectional energetic regulation across internal and external boundaries.
 
 
-Implications for Somatic-Cognitive Modeling
+## Implications for Somatic-Cognitive Modeling
 
 Standard cognitive frameworks isolate perception within neural processing. This model posits that somatic tension distribution directly generates measurable behavioral modifications in social environments, suggesting a continuous feedback loop between physical self-regulation and intersubjective space.
-Original User Submission (Grammatically Corrected)
+
+## Original User Submission (Grammatically Corrected)
+
 When I am walking, breathing, moving, or doing anything, and I consciously and physically switch from inward pressure to my whole body and outward pressure, I think it affects other energies around me. But I also think that because people are exerting outward pressure accidentally, it is affecting the energy process—consuming or absorbing energy in and out of all areas of our body, including internally and externally. This involves our eyes, ears, spine, everything. I noticed that people running who are probably exerting outward pressure look away, or their eyes shift unconsciously away from me for some reason.
