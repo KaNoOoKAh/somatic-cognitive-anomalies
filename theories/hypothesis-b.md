@@ -8,7 +8,7 @@ Getting served a summons to appear at court in a week or two.
 
 To properly identify any issues or problems with more of the population. 
 
-Showing presence while exhibiting different forms of postures and energy.
+Showing presence while exhibiting different forms of posture and energy.
 
 ### Reason for Writing that ^: 
 
