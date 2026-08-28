@@ -6,6 +6,8 @@ Abstract
 #### Reason: 
 Getting served a summons to appear at court on 09/09/2026.
 
+# ADDITIONAL INFORMATION: ### I wanna say I think I look damn good in dress shoes, pants, and shirt. I look better when I rotate my shoulders forward and back when my arms are swaying at my side. My lega and rest of my body still look a little stiff. I forgot to prep my lips and face though, damn…
+
 #### Hypothesis:
 
 This proposal investigates the physiological and behavioral consequences of intentionally shifting somatic pressure states from internal concentration to a whole-body outward expression. 
