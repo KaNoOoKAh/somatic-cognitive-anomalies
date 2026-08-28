@@ -12,7 +12,7 @@ To properly identify any issues or problems while in different terrain, substrat
 It’s like I’m a golden teacher in a cube with Koh who is samui. I got my cyan crayon to fight this shit show. 💩 🖥️..,
 
 
-Showing presence while exhibiting different forms of posture and energy.
+Showing presence while exhibiting different forms of posture and energy..
 
 ### Reason for Writing that ^: 
 
