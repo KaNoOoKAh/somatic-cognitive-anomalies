@@ -1,8 +1,9 @@
-# Hypothesis: Somatic Expansion Mechanics and Intersubjective Energy Regulation
+## Hypothesis: Somatic Expansion Mechanics and Intersubjective Energy Regulation
 Abstract
-## Date: 08/28/2026
-## Location: First Circuit Court, Honolulu, Hawaii
-## Reason: Getting served a summons to appear at court on 09/09/2026.
+### Date: 08/28/2026, Time: 🕣 8:30am
+### Location: First Circuit Court, Honolulu, Hawaii
+## Reason: 
+Getting served a summons to appear at court on 09/09/2026.
 
 
 This proposal investigates the physiological and behavioral consequences of intentionally shifting somatic pressure states from internal concentration to a whole-body outward expression. 
