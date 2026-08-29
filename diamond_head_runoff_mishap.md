@@ -1,3 +1,6 @@
+Date: 08/29/2026 Time: 8:11am Location: Honolulu, Hawaii
+
+
 GitHub Observation Report: Diamond Head Runoff & Substrate Mitigation
 Repository: oahu-urban-soil-refuge / field-notes
 Entry ID: DH-2026-0829-Cromwells-Hydrology
