@@ -1,29 +1,27 @@
-[CURRENTLY EDITING]
-I was speaking to text and words got mixed in.
 
+ 🔗 Overview: For a simplified, real-world breakdown of this theory, return to the main README.md
 
+[Somatic Connectivity Theory of Human Sensation Distribution]
 
-[🔗 Overview: For a simplified, real-world breakdown of this theory, return to the main README.md
-
-[NOT DONE] Somatic Connectivity Theory of Human Sensation Distribution
 Author: Christopher
 Version: 1.0
 Date: 2026
 
-(WILL EDIT LATER. GOT SOMETHING TO DO...),
 Version: 1.3
 Date: 2026-08-21
-
-(FIELD OBSERVATIONS EXPANDED - KAHALA MALL STUDY + SELF-OBSERVATION + REAL-TIME CASE STUDIES)
+Revised Date: 08/24/2026
 
 Overview
 
 
 Personal Note:  
-I wrote this theory because I've always been curious about how people feel sensations differently across their bodies. Sometimes a feeling (sensation/orgasm/sneeze/hiccup/gag/reflex/muscle spasm/cough) feels localized to one area, and sometimes it radiates through the entire body. I wanted to understand the mechanisms behind this variation.
+I wrote this theory because I've always been curious about how people feel sensations differently across their bodies. Sometimes a feeling (sensation/orgasm/sneeze/hiccup/gag/reflex/muscle spasm/cough) feels localized to one area, and sometimes it radiates through the entire body. I wanted to understand the mechanisms behind this variation. I also want to figure out the danger and affects on our health that decreased somatic function and energy distribution can have. 
+
+
 
 Core Hypothesis
-Human sensation is distributed through interconnected somatic pathways.
+Human sensation is distributed through interconnected somatic pathways. Decreased sensation can cause a numbing effect that isn't identifiable without proper knowledge and physical awareness. 
+
 The degree to which a sensation becomes "full‑body" or remains localized depends on:
 
 - interoceptive awareness
@@ -107,7 +105,7 @@ Key Question: How long has this person's body been operating in disconnected mod
 
 FIELD OBSERVATIONS: KAHALA MALL STUDY + EXTENDED OBSERVATIONS
 Date: 2026-08-21
-Observer: Christopher
+Observer: KAnoOokAh
 Setting: Kahala Shopping Center, Honolulu + Restaurant + Walking observations
 Method: Observational gait analysis and postural assessment of general population during free-walking and task-performing conditions
 Purpose: Empirical validation of somatic connectivity theory through real-world postural observation
@@ -229,7 +227,7 @@ SECTION 7: INTERGENERATIONAL CASE STUDY | MALE HEALTH INTERVIEW
 Interview Context: Extensive health and somatic awareness questioning with 85-year-old man
 
 Observations:
-- Age: 85 years old (born July 3, 1940)
+- Age: 85 years old (1940)
 - Interoceptive awareness: Very low — "you gotta think" about body parts to identify problems; cannot naturally sense deterioration
 - Involuntary facial/motor movements: Teeth moving up/down involuntarily, jaw moving, facial muscles twitching
 - Eyebrows moving involuntarily: Facial motor control completely compromised
