@@ -1,0 +1,39 @@
+# Diamond Head Simple Soil Test-1 
+  Date: 08/29/2026 Location: Monsarrat Avenue 
+## Repository Reference: Kanoookah/somatic-cognitive-function/field_notes 
+
+---
+
+## 1. Overview & Objectives
+* **Primary Objective:** Measure baseline soil chemistry (pH, moisture, macronutrients) to analyze how specific nutrient concentrations impact energy absorption, processing, and biochemical conversion.
+* **Environmental Impact Scope:** Evaluate downstream effects of local soil composition on immediate surrounding organisms and micro-habitats.
+
+---
+
+## 2. In-Field Measurements (pH Test Kit)
+
+| Parameter | Measured Value | Target / Baseline Range | Notes |
+| :--- | :--- | :--- | :--- |
+| **pH Level** | [e.g., 6.5] | [e.g., 6.0 - 7.0] | [Color reaction indicator, soil depth, etc.] |
+| **Moisture Level** | [e.g., Moderate / %] | N/A | [Weather conditions prior to test] |
+| **Soil Temp / Depth**| [e.g., 68°F @ 6 in] | N/A | [Depth sample was collected from] |
+
+* **Field Observations:** [Physical appearance, soil color, compaction, presence of organic matter/earthworms]
+
+---
+
+## 3. (Sample ID)(Later)
+
+* **Sample ID:** `SOIL-SAMPLE-001`
+* **Collection Date:** [YYYY-MM-DD]
+* **Target Lab:** [University of Hawaii / University Ext.] 
+* **Status:** [ ] Pending Collection | [ ] Sent to Lab | [ ] Results Received
+
+### Lab Analysis Parameters To Be Requested:
+* **NPK Ratio:** Nitrogen (N), Phosphorus (P), Potassium (K)
+* **Secondary / Micronutrients:** Calcium (Ca), Magnesium (Mg), Sulfur (S), Iron (Fe), Zinc (Zn)
+* **Organic Matter (OM) %**
+* **Cation Exchange Capacity (CEC)**
+
+---
+
