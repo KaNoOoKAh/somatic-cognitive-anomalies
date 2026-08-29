@@ -4,7 +4,7 @@ Date: 08/29/2026 Time: 8:11am Location: Honolulu, Hawaii
 GitHub Observation Report: Diamond Head Runoff & Substrate Mitigation
 Repository: oahu-urban-soil-refuge / field-notes
 Entry ID: DH-2026-0829-Cromwells-Hydrology
-Focus: Watershed interconnectivity between Diamond Head slopes (22nd Ave corridor) and nearshore marine zones (Cromwell’s Beach).
+Focus: Watershed interconnectivity between Diamond Head slopes (22nd Ave corridor) and nearshore marine zones (Kahala Beach).
 
   1. Problem Statement
 Stagnant Acidic Pockets: Sub-canopy soils along the mountain's primary runoff tracks suffer from chemical stasis (likely tannin and phenol accumulation from leaf drop) rather than thermal pyrolysis. This creates a dense, black, sterile matrix where organic matter stalls and root development is inhibited.
