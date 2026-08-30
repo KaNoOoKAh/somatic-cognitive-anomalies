@@ -242,6 +242,15 @@ For inquiries or contributions, please refer to the repository's [Issues](https:
 
 ---
 
+*   **[📁 PUBLIC HEALTH & BODY BASICS]**
+    *   [`field_notes/body-basics-for-survival-and-recovery.md`](field_notes/body-basics-for-survival-and-recovery.md) – Living public-health guide covering breathing, circulation, movement, posture, somatic observations, warning signs, and risk reduction across the full lifespan from pre-conception onward.
+    *   [`field_notes/environmental-anomaly-watch.md`](field_notes/environmental-anomaly-watch.md) – Living research log for tracking environmental changes and anomalies across land, air, soil, freshwater, and ocean systems.
+
+*   **[📁 LIVE TRIAL LOGS]**
+    *   [`trials/trial-001.md`](trials/trial-001.md) – Live field test data from Diamond Head Road tracking automatic nasopharynx suction loops with Subject-B.
+*   **[📁 COMPLIANCE & CORRESPONDENCE NOTES]**
+    *   [`notes/judicial-submission.md`](notes/judicial-submission.md) – Chronological audit trail of the formal operational deficiencies notice transmitted on July 3, 2026.
+    *   [`notes/judicial-followup-friction.md`
 **Last Updated:** August 28, 2026  
 **Repository Owner:** kanoookah  
 **Status:** Active Research Phase
