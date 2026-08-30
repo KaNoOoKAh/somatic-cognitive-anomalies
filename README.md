@@ -2,7 +2,7 @@
 
 ## 🌐 Project Overview
 
-This repository contains research tracking **emergent somatic function**, **cognitive shifts**, and **respiratory resonance vectors** across modern, low-friction environments. This multi-layer framework bridges operational field data with historical processing models to analyze human attention redistribution and systemic awareness gaps.
+This repository contains research tracking **emergent somatic function**, **cognitive shifts**, and **respiratory resonance vectors** across modern, low-friction environments. This multi-layer framework explores how physical body awareness, cognitive function, and environmental factors interconnect in creating patterns of disconnection and systemic dysregulation in contemporary populations.
 
 The research explores how physical body awareness, cognitive function, and environmental factors interconnect in creating patterns of disconnection and systemic dysregulation in contemporary populations.
 
@@ -40,7 +40,7 @@ The theory that embodied awareness (connection to bodily sensation) directly cor
 
 ## 📊 Repository Status
 
-- **Last Updated:** August 28, 2026
+- **Last Updated:** August 30, 2026
 - **Active Documentation:** README.md (this file)
 - **Live Field Observations:** See [`READ_ME_2.0.md`](READ_ME_2.0.md) for detailed entries from 08/21/2026 onwards
 - **Personal Observations Folder:** See [`personal_observations/`](personal_observations/) for the current observation files
@@ -135,6 +135,19 @@ Active experimental and observational data collection:
   
 - [`trials–002.md`](trials/trials–002.md) – Secondary trial documentation and comparative analysis
 
+- **[🛁 BATHTUB TRIAL - SOMATOSENSORY & PROPRIOCEPTIVE MAPPING]** → [`trials/bathtub-trial-08-30-2026.md`](trials/bathtub-trial-08-30-2026.md)
+  - **Date:** Sunday, August 30, 2026
+  - **Location:** Oahu, Honolulu, Hawaii
+  - **Focus:** Immersion and cranial pressure log
+  - **Key Findings:**
+    - Fluid blindness: Inability to consciously register tactile presence of water despite immersion
+    - Cervical-axial disconnect: Muscular/ligamentous tension in lateral neck during head rotation
+    - Auditory-visceral resonance: Internalized perception of bodily sounds
+    - Cranial-facial integration: Cross-facial segmentation and pressure shifts
+    - Volitional pressure redirection: Conscious control of internal facial/cranial pressure
+    - Nasal fluid integration: Directed sensory pathway control
+  - **Raw Data:** Unedited user log included with pronunciations and system interpretation accuracy tracking
+
 ---
 
 ### **📁 COMPLIANCE & CORRESPONDENCE NOTES**
@@ -225,7 +238,7 @@ Documentation of operational standards and protocols (section under development)
 - **Main Hypothesis:** [`theories/hypothesis-A.md`](theories/hypothesis-A.md)
 - **Live Data:** [`READ_ME_2.0.md`](READ_ME_2.0.md)
 - **Technical Details:** [`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md)
-- **Trial Data:** [`trials/trial-001.md`](trials/trial-001.md) | [`trials/trials–002.md`](trials/trials–002.md)
+- **Trial Data:** [`trials/trial-001.md`](trials/trial-001.md) | [`trials/trials–002.md`](trials/trials–002.md) | [`trials/bathtub-trial-08-30-2026.md`](trials/bathtub-trial-08-30-2026.md)
 - **Philosophy:** [`research/love-as-responsive-presence/manifesto.md`](research/love-as-responsive-presence/manifesto.md)
 - **Field Observations:** [`personal_observations/field_observations_interoception.md`](personal_observations/field_observations_interoception.md)
 - **Field Observations:** [`personal_observations/tactile_sensitivty..Md,`](personal_observations/tactile_sensitivty..Md,)
@@ -243,14 +256,17 @@ For inquiries or contributions, please refer to the repository's [Issues](https:
 ---
 
 *   **[📁 PUBLIC HEALTH & BODY BASICS]**
-    *   [`field_notes/body-basics-for-survival-and-recovery.md`](field_notes/body-basics-for-survival-and-recovery.md) – Living public-health guide covering breathing, circulation, movement, posture, somatic observations, warning signs, and risk reduction across the full lifespan from pre-conception onward.
-    *   [`field_notes/environmental-anomaly-watch.md`](field_notes/environmental-anomaly-watch.md) – Living research log for tracking environmental changes and anomalies across land, air, soil, freshwater, and ocean systems.
+    *   [`field_notes/body-basics-for-survival-and-recovery.md`](field_notes/body-basics-for-survival-and-recovery.md) – Living public-health guide covering breathing, circulation, movement, posture and somatic recovery protocols
+    *   [`field_notes/environmental-anomaly-watch.md`](field_notes/environmental-anomaly-watch.md) – Living research log for tracking environmental changes and anomalies across land, air, soil, and systemic factors
 
 *   **[📁 LIVE TRIAL LOGS]**
     *   [`trials/trial-001.md`](trials/trial-001.md) – Live field test data from Diamond Head Road tracking automatic nasopharynx suction loops with Subject-B.
+    *   [`trials/bathtub-trial-08-30-2026.md`](trials/bathtub-trial-08-30-2026.md) – Immersion and cranial pressure mapping trial (08/30/2026, Honolulu, Hawaii)
+
 *   **[📁 COMPLIANCE & CORRESPONDENCE NOTES]**
     *   [`notes/judicial-submission.md`](notes/judicial-submission.md) – Chronological audit trail of the formal operational deficiencies notice transmitted on July 3, 2026.
-    *   [`notes/judicial-followup-friction.md`
-**Last Updated:** August 28, 2026  
+    *   [`notes/judicial-followup-friction.md`](notes/judicial-followup-friction.md) – Follow-up correspondence documentation
+
+**Last Updated:** August 30, 2026  
 **Repository Owner:** kanoookah  
 **Status:** Active Research Phase
