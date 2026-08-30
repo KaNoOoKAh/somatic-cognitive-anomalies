@@ -6,6 +6,12 @@ Date: 08/29/2026 Time: 8:55 p.m. Location: Honolulu, Hawaii
 
 View: Staring at our ceiling fans and the different settings on them. 
 
+Objectives: 
+- I need to do more research on solar energy.
+- Relation or Ex Material?
+- Environmental friendly or stupid idea
+- 
+
 Memory: I got yelled at awhile back when I thought it would make a change or help the environment. 
 
 Status: Open Theoretical Draft / Seeking Peer Review
