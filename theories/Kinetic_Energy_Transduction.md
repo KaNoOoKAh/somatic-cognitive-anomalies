@@ -2,6 +2,12 @@
 
 ### Repository: kanoookah/somatic-cognitive-function
 
+Date: 08/29/2026 Time: 8:55 p.m. Location: Honolulu, Hawaii 
+
+View: Staring at our ceiling fans and the different settings on them. 
+
+Memory: I got yelled at awhile back when I thought it would make a change or help the environment. 
+
 Status: Open Theoretical Draft / Seeking Peer Review
 
 Overview
