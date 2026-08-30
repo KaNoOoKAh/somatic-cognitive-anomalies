@@ -15,7 +15,12 @@
 | Parameter | Measured Value | Target / Baseline Range | Notes |
 | :--- | :--- | :--- | :--- |
 | **pH Level** | [e.g., 6.5] | [e.g., 6.0 - 7.0] | [Color reaction indicator, soil depth, etc.] |
-| **Moisture Level** | [e.g., Moderate / %] | N/A | [Weather conditions prior to test] |
+| **Elements** | [Potassium] | [Nitrogen] | Phosphorus | 
+- **Carbon Content** | - We will check how much of a certain sample contains different amounts of organic matter and carbon. While being able to gauage the approximate stage of the carbon cycle that certain material is in
+- **Calcium Content** | - White vinegar will be added in order to see if matter reacts. 
+- **Reaction/Acidic** | - Baking Soda will be added to the sample w/ distilled water. 
+  - **Objective** | Multiple test to see cation ability/exchange/reaction
+| **Moisture Level** | [e.g., Moderate / %] | N/A | [Weather conditions prior to test] |.
 | **Soil Temp / Depth**| [e.g., 68°F @ 6 in] | N/A | [Depth sample was collected from] |
 
 * **Field Observations:** [Physical appearance, soil color, compaction, presence of organic matter/earthworms]
