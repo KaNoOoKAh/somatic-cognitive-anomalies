@@ -27,6 +27,13 @@ Approximately 85%+ of modern populations experience a fundamental disconnection 
 2. This causes progressive craniofacial and postural collapse
 3. Physical misalignment disrupts neural pathways and cognitive function
 4. The result is measurable drops in attention capacity and comprehension
+   
+### **Hypothesis B** 
+Theorizes that: 
+1. True connections with our body must be made on a personal level.
+2. Every single cell or nerve can be activated, deactivated, or left to deteriorate.
+3. We now have different methods to reconnect and revitalize areas of the body, with practice, concentration, and the ability to learn from different perspectives even if the knowledge is coming from an individual who you would deem uncertified to provide "Information" that has been tried and proven. - This area of the field has not been addressed or practiced publicly and as extensively as I am and will keep doing.
+4. Environmental stress and conditions can cause disruption in the body which can create a horrible environment for our neural pathways, senses, cognitive functions, and our health if not identified nor addressed.
 
 ### **Somatic Connectivity Theory**
 
@@ -56,7 +63,6 @@ The theory that embodied awareness (connection to bodily sensation) directly cor
 | [`README.md`](README.md) | **You are here** - Main navigation and project overview |
 | [`READ_ME_2.0.md`](READ_ME_2.0.md) | Detailed live observations and field entries (08/21/2026+) |
 | [`FIELD_LOGS.md`](field_notes/FIELD_LOGS.md) | Chronological operational field logs and observations |
-| [`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md) | Advanced neuroscience and technical reference materials 
 ---
 ### **📁 CORE FRAMEWORKS & DOCUMENTS**
 
