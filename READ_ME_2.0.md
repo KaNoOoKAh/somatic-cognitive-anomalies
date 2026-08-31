@@ -1,9 +1,9 @@
 
  🔗 Overview: For a simplified, real-world breakdown of this theory, return to the main README.md
 
-[Somatic Connectivity Theory of Human Sensation Distribution]
+## [Somatic Connectivity Theory of Human Sensation Distribution]
 
-Author: Christopher
+Author: Christopher Okada
 Version: 1.0
 Date: 2026
 
