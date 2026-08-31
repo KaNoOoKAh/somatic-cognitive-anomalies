@@ -1,15 +1,14 @@
-# Somatic Connectivity Theory of Human Sensation Distribution
+### Somatic Connectivity Theory of Human Sensation Distribution
 Author: KAnoOokAh
 Version: 1.0
 Date: 08/24/2026
 Time: 18:59
 Location: Honolulu, Oahu
 
-
-# Overview
+### Overview
 This repository presents a theoretical model describing how human internal sensations distribute through the body during moments of heightened autonomic activation. The theory proposes that sensation is not isolated to one region but follows predictable pathways shaped by posture, fascia networks, muscle chains, interoception, and nervous‑system connectivity.
 
-# Personal Note:  
+### Personal Note:  
 I wrote this theory because I’ve always been curious about how people feel sensations differently across their bodies. Sometimes a feeling (sensation/sneeze/hiccup/gag/reflex/cough/hit/bump/movement) (muscle spasm/orgasm/involuntary reaction) stays in one place, and other times it spreads everywhere. 
 
 I wanted to understand why some people feel “connected” in certain areas and “disconnected” in others, and how posture, breathing, age, and the nervous system shape those experiences. 
@@ -17,7 +16,7 @@ I wanted to understand why some people feel “connected” in certain areas and
 This theory is my attempt to explain those patterns in normal, everyday words.
 
 
-# Core Hypothesis
+### Core Hypothesis
 Human sensation is distributed through interconnected somatic pathways.
 The degree to which a sensation becomes “full‑body” or remains localized depends on:
 
@@ -37,33 +36,33 @@ Nerve sensitivity
 
 These factors create an individual’s somatic connectivity map. Which also gives us the ability to sense internal and external dangers. While maintaining constant energy absorption, distribution, and release.   
 
-* # Mechanisms of Sensation Distribution
+* ## Mechanisms of Sensation Distribution
 
- # 1. Interoception
+ ### 1. Interoception
   
 - Interoception determines how much of the body participates in a sensation.
 - High interoception → widespread sensation
 - Low interoception → unconscious localized sensation 
 
-# 2. Fascia Networks
-# Fascia is a continuous connective tissue web forming around and linking:
+### 2. Fascia Networks
+### Fascia is a continuous connective tissue web forming around and linking:
 
 - Skin, Tissues, Bones, Muscles, Organs.
 
-# Fascia Network Note:
+### Fascia Network Note:
 
 - Tension or activation in one region can propagate through the entire chain. Depending on the condition and area of the Fascia tissue that is responding or identifying an issue or just health status. Your mind and body might not be able to properly identify or locate an area needing assistance without proper acknowledgement and visual information. 
 - The Fascia network is responsible for the mental and physical attributes that we feel during different situations. Which is a huge influencing factor in how we live, die, and present ourselves. 
 
-# 3. Muscle Chains
+### 3. Muscle Chains
 
 Muscles activate in coordinated groups.
 Engaged chains (core, pelvic floor, glutes) spread sensation.
 Relaxed chains localize sensation.
 
-# 4. Autonomic Nervous System
+### 4. Autonomic Nervous System
 
-# Strong autonomic activation can trigger:
+### Strong autonomic activation can trigger:
 
 - Involuntary muscle contractions
 
