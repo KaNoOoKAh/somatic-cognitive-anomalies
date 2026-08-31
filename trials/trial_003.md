@@ -1,4 +1,4 @@
-trial-003.md Date:08/31/2026-First Draft-No additions will be made, the only edits to this content will be to properly structure, format, clarify, and build a trials submission. 
+trial-003.md Date:08/31/2026-First Draft-No additions will be made, the only edits to this content will be to properly structure, format, clarify, and build a personal observations, trial, and field notes submission. 
 - I will be adding a section near the bottom that contains personal observations 
 ^Time:1:52 p.m. on 08/30/2026^
 
