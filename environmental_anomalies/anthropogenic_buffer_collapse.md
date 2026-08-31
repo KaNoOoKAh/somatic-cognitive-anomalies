@@ -12,7 +12,7 @@ Aloha,
 Dr C
 
 --
-Kimberly Carl
+( Name)
 Lecturer in Biology
 
 ## 👁️ 1. Observation (The "What")
