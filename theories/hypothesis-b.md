@@ -45,3 +45,5 @@ Standard cognitive frameworks isolate perception within neural processing. This 
 ## Original User Submission (Grammatically Corrected)
 
 When I am walking, breathing, moving, or doing anything, and I consciously and physically switch from inward pressure to my whole body and outward pressure, I think it affects other energies around me. But I also think that because people are exerting outward pressure accidentally, it is affecting the energy process—consuming or absorbing energy in and out of all areas of our body, including internally and externally. This involves our eyes, ears, spine, everything. I noticed that people running who are probably exerting outward pressure look away, or their eyes shift unconsciously away from me for some reason.
+
+I have been practicing applying negative force to different areas of my body.  I believe every single cell or tissue can be felt and interacted with.
