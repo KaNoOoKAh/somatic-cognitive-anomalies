@@ -10,6 +10,7 @@
 
 Interesting questions. Questions about energy in general are within the realm of physics (much of which is beyond me) however, I can comment on the flow of energy through biological systems.  
 Almost all ecosystems on earth are powered by solar energy which is transformed into chemical energy (organic compounds) by producers through the process of photosynthesis.  If there are no photosynthetic organisms in an area then solar energy that reaches the area cannot be used by the ecosystem and I believe (most of) it will just dissipate back out of the atmosphere as solar energy or heat). An ecosystem cannot exist without producers. As for that energy, unused solar energy that reaches Earth is absorbed by the surface and atmosphere, converted into heat, and eventually radiated back out into space as infrared radiation. Another thing to consider is the cycling of carbon.  Photosynthesis results in the uptake of carbon dioxide that can in some situations remain sequestered within living organisms or their remains for long periods of time.  The loss of an ecosystem would reduce carbon sequestration and depending on what happened to all of the living organisms could contribute a significant amount of carbon dioxide to the atmosphere. I'd be happy to discuss further if you have any other questions or thoughts. 
+
 Aloha, 
 Dr C
 
