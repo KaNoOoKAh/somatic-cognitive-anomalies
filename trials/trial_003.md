@@ -18,3 +18,5 @@ I will be keeping notes while adding different observations. I do understand tha
 - I just interjected to ask a question in order to give the individual time to think and rest. The sound or response that I could feel when hearing his response was substantial. Pronunciation was more pronounced as well, as well as thinking/processing the question or information before it was said.
 - Time- 11:23am - speaker is still actively speaking, teaching, and visually scanning. Slurring and mistakes are increasing. Complexion is now turning a dark red arround eyes, nose, and mouth.
 - I have taken notes of other participants but will enter it after in order to maintain my purpose and objectives
+- 11:34am - We just finished talking about hydrogen and water molecules. I interjected again and purposely asked muultiple questions and the speaker responded excellently. Relaxing, waiting for me to ask my question, waiting for me to respond, relaxing all facial movements, thinking before he answered due to the type of questions.
+- Current time is 11:36 a.m. he is now explaining Chemical and Physical Bases of Life- Acids and Bases.
