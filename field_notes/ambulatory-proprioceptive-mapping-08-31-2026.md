@@ -12,6 +12,12 @@
 
 Subject engaged in deliberate ambulatory movement with sustained attention to proprioceptive feedback during weight transfer and ground contact phases. Observation documents emerging lateral chain proprioception and cross-body motor coordination patterns.
 
+### Important Reminder 
+
+The force being applied is just dead weight. The leg is in a neutral position at different angles, the energy building up is slow. 
+I DO NOT know if I am doing it correctly. 
+I am trying to figure out where the energy is coming from. Once I can safely figure that out I will attempt to provide myself with a stable constant supply while charging different areas of my body. 
+
 ---
 
 ## Structured Observations
