@@ -32,8 +32,9 @@ Approximately 85%+ of modern populations experience a fundamental disconnection 
 Theorizes that: 
 1. True connections with our body must be made on a personal level.
 2. Every single cell or nerve can be activated, deactivated, or left to deteriorate.
-3. We now have different methods to reconnect and revitalize areas of the body, with practice, concentration, and the ability to learn from different perspectives even if the knowledge is coming from an individual who you would deem uncertified to provide "Medical Information" even if it has been tried and proven. - This area of the field has not been addressed or practiced publicly and as extensively as I am and will keep doing.
-4. Environmental stress and conditions can cause disruption in the body which can create a horrible environment for our neural pathways, senses, cognitive functions, and our health if not identified nor addressed.
+3. We now have different methods to reconnect and revitalize areas of the body, with practice, concentration, and the ability to learn from different perspectives even if the knowledge is coming from an individual who you would deem uncertified to provide medical information.
+    - This area of the field has not been addressed or practiced publicly and as extensively as I am and will keep doing.
+5. Environmental stress and conditions can cause disruption in the body which can create a horrible environment for our neural pathways, senses, cognitive functions, and our health if not identified nor addressed.
 
 ### **Somatic Connectivity Theory**
 
