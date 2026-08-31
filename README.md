@@ -49,36 +49,20 @@ The theory that embodied awareness (connection to bodily sensation) directly cor
 
 ---
 
-## 📡 SYSTEM NAVIGATION BLUEPRINT
-
-This repository operates under a strict multi-layer parsing protocol to prevent data fragmentation. As you navigate these documents, your mind must utilize the following structural perimeters:
-
-*   **The Carat `^` [System Metadata]** : Identifies high-level operational tags, dates, and geographic nodes. Do not read as body text.
-*   **The Medium En-Dash `(–)` [Context Delimiters]** : Marks an absolute timeline break or a shift between modern data and antique reflection layers.
-*   **The Curly Brackets `{}` [Isolated Data Compartments]** : **CRITICAL VISUAL SHIELD.** Everything enclosed within these brackets represents a hyper-concentrated, independent field observation.
-    *   *Surfer Note:* Do not let your eyes blend these blocks together. Differentiate and isolate each bracketed section as a completely separate operational unit.
-
----
-
-## 🗂️ MASTER REPOSITORY ACTIVE DIRECTORY
-
-### **📁 ROOT LEVEL FILES**
+### **📁 Read Me**
 
 | File | Purpose |
 |------|---------|
 | [`README.md`](README.md) | **You are here** - Main navigation and project overview |
 | [`READ_ME_2.0.md`](READ_ME_2.0.md) | Detailed live observations and field entries (08/21/2026+) |
 | [`FIELD_LOGS.md`](field_notes/FIELD_LOGS.md) | Chronological operational field logs and observations |
-| [`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md) | Advanced neuroscience and technical reference materials |
-| [`EDITINGPOLICY.md`](EDITINGPOLICY.md) | Documentation standards and editing guidelines |
-
+| [`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md) | Advanced neuroscience and technical reference materials 
 ---
-
 ### **📁 CORE FRAMEWORKS & DOCUMENTS**
 
 #### **Theories & Hypotheses** → [`theories/`](theories/)
 
-Foundational research frameworks exploring somatic and cognitive mechanisms:
+Foundational research frameworks and concerns  exploring somatic and cognitive mechanisms:
 
 - [`hypothesis-A.md`](theories/hypothesis-A.md) – **PRIMARY HYPOTHESIS**
   - Craniofacial alignment models and cognitive awareness pathways
@@ -89,23 +73,6 @@ Foundational research frameworks exploring somatic and cognitive mechanisms:
   - Plain-English overview explaining why 85%+ of modern people are disconnected from their bodies
   - Exploration of attention fragmentation and embodied awareness
   - Connection between body-state and cognitive function
-
----
-
-### **📁 RESEARCH DIVISIONS**
-
-#### **Love as Responsive Presence** → [`research/love-as-responsive-presence/`](research/love-as-responsive-presence/)
-
-Philosophical and practical research on attention, care, and responsive systems:
-
-- [`README.md`](research/love-as-responsive-presence/README.md) – Guide to this research section
-- [`manifesto.md`](research/love-as-responsive-presence/manifesto.md) – Core philosophical statement on love as attention
-- [`Manifesto_2..,md`](research/love-as-responsive-presence/Manifesto_2..,md) – Alternative manifesto version
-- [`principles.md`](research/love-as-responsive-presence/principles.md) – Working definitions and framing
-- [`poem.md`](research/love-as-responsive-presence/poem.md) – Lyrical expression of core concepts
-- [`questions.md`](research/love-as-responsive-presence/questions.md) – Research and reflection prompts
-- [`dialogue.md`](research/love-as-responsive-presence/dialogue.md) – Conversation templates and response frameworks
-
 ---
 
 ### **📁 PERSONAL OBSERVATIONS**
@@ -147,6 +114,20 @@ Active experimental and observational data collection:
   - **Raw Data:** Unedited user log included with pronunciations and system interpretation accuracy tracking
 
 ---
+
+### **📁 RESEARCH DIVISIONS**
+
+#### **Love as Responsive Presence** → [`research/love-as-responsive-presence/`](research/love-as-responsive-presence/)
+
+Philosophical and practical research on attention, care, and responsive systems:
+
+- [`README.md`](research/love-as-responsive-presence/README.md) – Guide to this research section
+- [`manifesto.md`](research/love-as-responsive-presence/manifesto.md) – Core philosophical statement on love as attention
+- [`Manifesto_2..,md`](research/love-as-responsive-presence/Manifesto_2..,md) – Alternative manifesto version
+- [`principles.md`](research/love-as-responsive-presence/principles.md) – Working definitions and framing
+- [`poem.md`](research/love-as-responsive-presence/poem.md) – Lyrical expression of core concepts
+- [`questions.md`](research/love-as-responsive-presence/questions.md) – Research and reflection prompts
+- [`dialogue.md`](research/love-as-responsive-presence/dialogue.md) – Conversation templates and response frameworks
 
 ### **📁 COMPLIANCE & CORRESPONDENCE NOTES**
 
