@@ -16,3 +16,5 @@ I will be keeping notes while adding different observations. I do understand tha
 - Skin on side of mouth looks to be saturated or concentrated on each end of the mouth. No control or constriction of the cheek skin or .
 - To manhy words are being saaid without actually processing what is being said before its being said. I saay this beccause the speaker i producing 10 words a second some times.time-11:05am
 - I just interjected to ask a question in order to give the individual time to think and rest. The sound or response that I could feel when hearing his response was substantial. Pronunciation was more pronounced as well, as well as thinking/processing the question or information before it was said.
+- Time- 11:23am - speaker is still actively speaking, teaching, and visually scanning. Slurring and mistakes are increasing. Complexion is now turning a dark red arround eyes, nose, and mouth.
+- I have taken notes of other participants but will enter it after in order to maintain my purpose and objectives
