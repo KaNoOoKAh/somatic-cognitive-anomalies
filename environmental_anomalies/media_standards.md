@@ -1,11 +1,11 @@
-# Strategic Journalism: Media Standards in Heightened and Abnormal Situations
+### Strategic Journalism: Media Standards in Heightened and Abnormal Situations
 
-## Overview
+#### Overview
 This document outlines a critical media analysis regarding the responsibilities of major news stations and journalists. It focuses on the psychological impact of broadcast standards and details how reporters can strategically interact with interviewees to prioritize public awareness, safety, and constructive guidance over sensationalism during abnormal or "newsworthy" events.
 
 ---
 
-## 1. The Current State of Media Coverage
+### 1. The Current State of Media Coverage
 
 
 * **Loss of Professional Standards:** In many modern broadcasts, the manner in which interviews are conducted is not suitable for major news platforms, frequently prioritizing sensational reactions over objective reality.
@@ -14,7 +14,7 @@ This document outlines a critical media analysis regarding the responsibilities 
 
 ---
 
-## 2. Framework for Strategic Journalism
+### 2. Framework for Strategic Journalism
 
 ### De-Escalation and Awareness
 When an abnormal or unprecedented situation presents itself, journalists have a unique platform that must be handled with precise care. Strategic journalism requires:
@@ -32,7 +32,7 @@ Instead of provoking heightened emotional responses, media interactions should b
 
 ---
 
-## 3. Global Comparisons in Media Responsibility
+#### 3. Global Comparisons in Media Responsibility
 
 
 * **The Traditional Collective Approach:** Certain international broadcast frameworks, such as traditional Japanese media standards, strictly enforce public safety guidelines during unusual events. They prioritize social harmony and calm, structured updates to protect the psychological well-being of the public.
