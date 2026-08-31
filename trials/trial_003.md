@@ -6,4 +6,4 @@ and eyes,mouth,lips,nostrils, eyebrows, and skin surrounding my entire face and 
 I believe there are times when our bodies respond with what we see around us. 
 
 I will be keeping notes while adding different observations. I do understand that the point of view for the other participants will differentiate between who is actively participating and who is not participating. This is because zoom meetings usually bring the user who is tallking to the front of the screen. 
-- I am hoping by maintaining my attention and posture, I can help other individuals re-learn or learn different ways to incease control of all areas of their bodies. Even a mental acknowledgement can help stimulate varous areas depending on state of mind and physical  during the time of viewing.
+- I am hoping by maintaining my attention and posture, I can help other individuals re-learn or learn different ways to incease control of all areas of their bodies. Even a mental acknowledgement can help stimulate varous areas depending on state of mind and physical activities/active control or movement during the time of viewing.
