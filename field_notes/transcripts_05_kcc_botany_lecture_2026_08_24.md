@@ -3,6 +3,9 @@
 *   **Session Window:** 10:00 AM – 12:00 PM HST (Live Synchronous Zoom)  
 *   **Methodology:** Continuous real-time mobile talk-to-text data capture.  
 *   **Pacing Analytics:** 4,759 cumulative words captured over a 30.36-minute active talk-text recording stream (~140.1+ Words Per Minute average velocity).
+*   **Objectives:**
+*   To make a connection with individuals who talk/speak and where their point of concentration is when they walk.
+*   I would also like to see if there is any evidence of certain symptoms presenting themselves under different physical and mental stimulation and point of concentration, as individuals who have much less mental stimulation or activity above the center of gravity.
 
 ---
 
