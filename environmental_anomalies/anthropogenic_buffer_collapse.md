@@ -4,9 +4,9 @@
 **Date:**08/29/2026 **Location:**Honolulu, Hawaii
 
 ---
-## Email from a very respected Biology Professor, academic genius and an amazing woman. 
+## Email from a very beautiful woman. This email might not relate to the buffer collapse. But I believe all information and knowledge given to someone. Must be handled in the deepest rapport. I do not want someones memory to be lost in time and forgotten until a picture pops up. I want people to remember everyone around them. I want people to learn from everything around them. I want people to understand that planet earth was not made to be different sections, civilizations, or eco systems. 
 
--I can and will post her name if she approves. 
+-It was meant to be one area for all to exist in harmony and equality. 
 
 [ORIGINAL TEXT]Interesting questions. Questions about energy in general are within the realm of physics (much of which is beyond me) however, I can comment on the flow of energy through biological systems.  
 Almost all ecosystems on earth are powered by solar energy which is transformed into chemical energy (organic compounds) by producers through the process of photosynthesis.  If there are no photosynthetic organisms in an area then solar energy that reaches the area cannot be used by the ecosystem and I believe (most of) it will just dissipate back out of the atmosphere as solar energy or heat). An ecosystem cannot exist without producers. As for that energy, unused solar energy that reaches Earth is absorbed by the surface and atmosphere, converted into heat, and eventually radiated back out into space as infrared radiation. Another thing to consider is the cycling of carbon.  Photosynthesis results in the uptake of carbon dioxide that can in some situations remain sequestered within living organisms or their remains for long periods of time.  The loss of an ecosystem would reduce carbon sequestration and depending on what happened to all of the living organisms could contribute a significant amount of carbon dioxide to the atmosphere. I'd be happy to discuss further if you have any other questions or thoughts. 
