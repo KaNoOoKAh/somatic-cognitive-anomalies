@@ -22,4 +22,6 @@ I will be keeping notes while adding different observations. I do understand tha
 - Note- All redness started being redirected and ditributed as the body should instead of beig concentrated in the front of the face. 
 - Current time is 11:36 a.m. he is now explaining Chemical and Physical Bases of Life- Acids and Bases.
 - Current time 11:49 a.m. We just finished a light Hydrolysis section. An individual attempted to ask a question who was sitting far away from away from her screen. She did not know her voice couldnt be heard. Her voice immediately started breaking up as well. No secondary questions where/were asked after receiving an answer from the speaker.
+- ## Big mess up. I forgot muy posture to everything below my fricken head lol. Until the very last 2-3 minutes. I was concentrating on controlling the posture of my skin, lips, eyes, skin retention, and i forgot everything else below.
+- -Meeting has ended at 12:03am
 - I asked about a certain deficiency. To keep the speaker from continuously speaking and overloading specific areas unconsciously. I understand time has a limit and certain amounts of information need to be given in order to meet standards.  
