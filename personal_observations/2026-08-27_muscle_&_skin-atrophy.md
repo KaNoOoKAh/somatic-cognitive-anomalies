@@ -1,4 +1,7 @@
 ### Personal Observation Log
+Author: Christopher Michael Masayasu Okada 
+### Email: okada6@hawaii.edu , kanookah@icloud.com 
+### Repository: https://www.GitHub.com/kanoookah/somatic-cognitive-function
 
 ### Metadata
 
