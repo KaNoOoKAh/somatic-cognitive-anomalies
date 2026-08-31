@@ -115,9 +115,7 @@ Philosophical and practical research on attention, care, and responsive systems:
 Current observation files:
 
 - [`README.md`](personal_observations/README.md) – Navigation guide for the personal observations section
-- [`field_observations_interoception.md`](personal_observations/field_observations_interoception.md) – Interoception and field observation notes
-- [`tactile_sensitivty.md`](personal_observations/tactile_sensitivty.md) – Tactile sensitivity observation notes
-- [`2026-08-28_somatic_sensation_distribution_event.md`](personal_observations/2026-08-28_somatic_sensation_distribution_event.md) – Somatic sensation distribution event note
+28_somatic_sensation_distribution_event.md`](personal_observations/2026-08-28_somatic_sensation_distribution_event.md) – Somatic sensation distribution event note
 
 **Purpose:** Collect structured first-person observation data and related analysis.
 
