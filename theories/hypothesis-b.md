@@ -6,19 +6,7 @@ Abstract
 #### Reason for Being at Location:
 Getting served a summons to appear at court in a week or two.
 
-To properly identify any issues or problems while in different terrain, substrate, and atmosphere.
-^ Referencing myself. Different environment, different set up and different vibe.
-
-It’s like I’m a golden teacher in a cube with Koh who is samui. I got my cyan crayon to fight this shit show. 💩 🖥️..,
-
-
-Showing presence while exhibiting different forms of posture and energy..
-
-### Reason for Writing that ^: 
-
-Trying to be a real person. No matter what the situation is. Help and show love to everything around us..,
-
-# ADDITIONAL INFORMATION: I wanna say I think I feel good in dress shoes, pants, and shirt. (editing)..,
+To properly identify any issues or problems while in different terrain, substrate, and atmosphere. Anywhere I go I make it a priority to assess the external physical conditions and mental conditions of different forms of life.  
 
 #### Hypothesis:
 
