@@ -44,7 +44,7 @@ The theory that embodied awareness (connection to bodily sensation) directly cor
 - Attention span and focus capacity
 - Systemic health across all body systems
 - Target small areas of the body and trying to feel in different ways will help you regain feeling and control.
-- ### I DO NOT KNOW WHAT HAPPENED TO TWO LIVE OBSERVATION FILES. One was washing a vehicle but using my hands and forearms and applying concentration and directional force/power. After 15-20 minutes of continuing to try and feel for contaminants while using water and soap to hydrate the paint and my hands. I could feel every single spec of dirt or grime stuck in the paint. I could also feel each ring of skin.
+- #### One was washing a vehicle but using my hands and forearms and applying concentration and directional force/power. After 15-20 minutes of continuing to try and feel for contaminants while using water and soap to hydrate the paint and my hands. I could feel every single spec of dirt or grime stuck in the paint. I could also feel each ring of skin.
 -  #### I could also feel my hand getting stuck when applying a negative force. I also did this while inhaling and exhaling slowly. I remember on exhale when I would release my hand would not stick to the vehicle..,
 -  #### Also please remember I practice for hours every day. Even when walking regularly I apply different directions of force/power to different areas while inhaling and exhaling at different intervals.
 -  #### Every step I take I try to apply a negative force to the side/leg I lift up.
