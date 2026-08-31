@@ -93,12 +93,10 @@ Foundational research frameworks and concerns  exploring somatic and cognitive m
 Current observation files:
 
 - [`README.md`](personal_observations/README.md) – Navigation guide for the personal observations section
-28_somatic_sensation_distribution_event.md`](personal_observations/2026-08-28_somatic_sensation_distribution_event.md) – Somatic sensation distribution event note
 
 **Purpose:** Collect structured first-person observation data and related analysis.
 
 ---
-
 ### **📁 LIVE TRIAL LOGS**
 
 #### **Trials Directory** → [`trials/`](trials/)
