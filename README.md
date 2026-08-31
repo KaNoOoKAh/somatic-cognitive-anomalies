@@ -28,7 +28,7 @@ Approximately 85%+ of modern populations experience a fundamental disconnection 
 3. Physical misalignment disrupts neural pathways and cognitive function
 4. The result is measurable drops in attention capacity and comprehension
    
-### **Hypothesis B** 
+#### **Hypothesis B** 
 Theorizes that: 
 1. True connections with our body must be made on a personal level.
 2. Every single cell or nerve can be activated, deactivated, or left to deteriorate.
