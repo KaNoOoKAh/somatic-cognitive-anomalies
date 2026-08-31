@@ -153,84 +153,23 @@ Specialized movement and somatic observation logs:
 - [`movement-notes-2026-08-23.md`](notes/movement/movement-notes-2026-08-23.md) – Detailed movement observations and somatic tracking from August 23, 2026
 
 ---
+*   **[📁 PUBLIC HEALTH & BODY BASICS]**
+    *   [`field_notes/body-basics-for-survival-and-recovery.md`](field_notes/body-basics-for-survival-and-recovery.md) – Living public-health guide covering breathing, circulation, movement, posture and somatic recovery protocols
+    *   [`field_notes/environmental-anomaly-watch.md`](field_notes/environmental-anomaly-watch.md) – Living research log for tracking environmental changes and anomalies across land, air, soil, and systemic factors
+
+*   **[📁 LIVE TRIAL LOGS]**
+    *   [`trials/trial-001.md`](trials/trial-001.md) – Live field test data from Diamond Head Road tracking automatic nasopharynx suction loops with Subject-B.
+    *   [`trials/bathtub-trial-08-30-2026.md`](trials/bathtub-trial-08-30-2026.md) – Immersion and cranial pressure mapping trial (08/30/2026, Honolulu, Hawaii)
+
+*   **[📁 COMPLIANCE & CORRESPONDENCE NOTES]**
+    *   [`notes/judicial-submission.md`](notes/judicial-submission.md) – Chronological audit trail of the formal operational deficiencies notice transmitted on July 3, 2026.
+    *   [`notes/judicial-followup-friction.md`](notes/judicial-followup-friction.md) – Follow-up correspondence documentation
 
 ### **📁 FILES DIRECTORY**
 
 #### **Archived & Supporting Files** → [`Files/`](Files/)
 
 Additional materials and archives (currently in organization phase)
-
----
-
-### **📁 POLICIES DIRECTORY**
-
-#### **Operational Policies** → [`policies/`](policies/)
-
-Documentation of operational standards and protocols (section under development)
-
----
-
-## ��� How to Navigate This Repository
-
-### **For New Researchers:**
-1. Start with this `README.md` for orientation
-2. Read [`READ_ME_2.0.md`](READ_ME_2.0.md) for live observational data
-3. Explore [`theories/hypothesis-A.md`](theories/hypothesis-A.md) for the primary research framework
-4. Review [`theories/somatic_connectivity_theory.md`](theories/somatic_connectivity_theory.md) for foundational concepts
-
-### **For Technical Deep Dives:**
-1. Consult [`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md) for advanced neuroscience
-2. Review trial data in [`trials/`](trials/)
-3. Examine field observations in [`personal_observations/`](personal_observations/)
-
-### **For Philosophical Context:**
-1. Explore [`research/love-as-responsive-presence/`](research/love-as-responsive-presence/)
-2. Read the [`manifesto.md`](research/love-as-responsive-presence/manifesto.md)
-3. Engage with reflection [`questions.md`](research/love-as-responsive-presence/questions.md)
-
-### **For Administrative Context:**
-1. Review [`notes/judicial-submission.md`](notes/judicial-submission.md)
-2. Check [`notes/judicial-followup-friction.md`](notes/judicial-followup-friction.md)
-3. Read [`notes/ADMINISTRATIVE_DISCLAIMER.md`](notes/ADMINISTRATIVE_DISCLAIMER.md)
-4. See [`EDITINGPOLICY.md`](EDITINGPOLICY.md)
-
----
-
-## 📋 Research Methodology
-
-**Phase 1: Identify**
-- Document raw events, observations, and anomalies
-- Record baseline measurements and contextual data
-
-**Phase 2: Process**
-- Break down structural and societal impacts
-- Cross-reference with theoretical frameworks
-- Analyze causal relationships
-
-**Phase 3: Assess**
-- Evaluate severity and patterns
-- Examine systemic responses and governmental actions
-- Measure correlations with theoretical predictions
-
-**Phase 4: React**
-- Formulate real-time applications
-- Develop safety and intervention strategies
-- Document outcomes and feedback loops
-
----
-
-## 🔗 Quick Reference Links
-
-- **Main Hypothesis:** [`theories/hypothesis-A.md`](theories/hypothesis-A.md)
-- **Live Data:** [`READ_ME_2.0.md`](READ_ME_2.0.md)
-- **Technical Details:** [`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md)
-- **Trial Data:** [`trials/trial-001.md`](trials/trial-001.md) | [`trials/trials-002.md`](trials/trials-002.md) | [Bathtub trial .MD](https://github.com/KaNoOoKAh/somatic-awareness-lab.md/blob/main/Bathtub%20trial%20.MD)
-- **Philosophy:** [`research/love-as-responsive-presence/manifesto.md`](research/love-as-responsive-presence/manifesto.md)
-- **Field Observations:** [`personal_observations/field_observations_interoception.md`](personal_observations/field_observations_interoception.md)
-- **Field Observations:** [`personal_observations/tactile_sensitivty.md`](personal_observations/tactile_sensitivty.md)
-- **Field Observations:** [`personal_observations/2026-08-28_somatic_sensation_distribution_event.md`](personal_observations/2026-08-28_somatic_sensation_distribution_event.md)
-- **Administrative:** [`notes/judicial-submission.md`](notes/judicial-submission.md)
-
 ---
 
 ## 📢 Contributing & Contact
