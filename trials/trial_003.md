@@ -1,4 +1,6 @@
-trial-003.md Date:08/31/2026-First Draft-No additions will be made, the only edits will be to properly structure, format, clarify, and build a trials submission. Time:1:52 p.m. on 08/30/2026
+trial-003.md Date:08/31/2026-First Draft-No additions will be made, the only edits to this content will be to properly structure, format, clarify, and build a trials submission. 
+- I will be adding a section near the bottom that contains personal observations 
+^Time:1:52 p.m. on 08/30/2026^
 
 I will be attempting to keep my posture doing a 1 hour and 15 minute online meeting. The meeting contains between 15-20 academically adept individuals. 
 
