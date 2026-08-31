@@ -15,7 +15,7 @@ Aloha,
 Dr C
 
 --
-( Name)
+
 Lecturer in Biology [ORIGINAL TEXT]
 
 ### **End of Email**
