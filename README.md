@@ -116,7 +116,7 @@ Current observation files:
 
 - [`README.md`](personal_observations/README.md) – Navigation guide for the personal observations section
 - [`field_observations_interoception.md`](personal_observations/field_observations_interoception.md) – Interoception and field observation notes
-- [`tactile_sensitivty..Md,`](personal_observations/tactile_sensitivty..Md,) – Tactile sensitivity observation notes
+- [`tactile_sensitivty.md`](personal_observations/tactile_sensitivty.md) – Tactile sensitivity observation notes
 - [`2026-08-28_somatic_sensation_distribution_event.md`](personal_observations/2026-08-28_somatic_sensation_distribution_event.md) – Somatic sensation distribution event note
 
 **Purpose:** Collect structured first-person observation data and related analysis.
@@ -133,9 +133,9 @@ Active experimental and observational data collection:
   - Automatic nasopharynx suction loop tracking
   - Subject-B observational data
   
-- [`trials–002.md`](trials/trials–002.md) – Secondary trial documentation and comparative analysis
+- [`trials-002.md`](trials/trials-002.md) – Secondary trial documentation and comparative analysis
 
-- **[🛁 BATHTUB TRIAL - SOMATOSENSORY & PROPRIOCEPTIVE MAPPING]** → [`trials/bathtub-trial-08-30-2026.md`](trials/bathtub-trial-08-30-2026.md)
+- **[🛁 BATHTUB TRIAL - SOMATOSENSORY & PROPRIOCEPTIVE MAPPING]** → [Bathtub trial .MD](https://github.com/KaNoOoKAh/somatic-awareness-lab.md/blob/main/Bathtub%20trial%20.MD)
   - **Date:** Sunday, August 30, 2026
   - **Location:** Oahu, Honolulu, Hawaii
   - **Focus:** Immersion and cranial pressure log
@@ -156,8 +156,8 @@ Active experimental and observational data collection:
 
 Administrative, legal, and operational correspondence:
 
-- [`judicial–submission.md`](notes/judicial–submission.md) – Chronological audit trail of formal operational deficiencies notice (transmitted July 3, 2026)
-- [`judicial–followup–friction.md`](notes/judicial–followup–friction.md) – Follow-up correspondence and administrative friction documentation
+- [`judicial-submission.md`](notes/judicial-submission.md) – Chronological audit trail of formal operational deficiencies notice (transmitted July 3, 2026)
+- [`judicial-followup-friction.md`](notes/judicial-followup-friction.md) – Follow-up correspondence and administrative friction documentation
 - [`ADMINISTRATIVE_DISCLAIMER.md`](notes/ADMINISTRATIVE_DISCLAIMER.md) – Official disclaimer and legal context
 
 #### **Movement Notes** → [`notes/movement/`](notes/movement/)
@@ -184,7 +184,7 @@ Documentation of operational standards and protocols (section under development)
 
 ---
 
-## 🚀 How to Navigate This Repository
+## ��� How to Navigate This Repository
 
 ### **For New Researchers:**
 1. Start with this `README.md` for orientation
@@ -203,8 +203,8 @@ Documentation of operational standards and protocols (section under development)
 3. Engage with reflection [`questions.md`](research/love-as-responsive-presence/questions.md)
 
 ### **For Administrative Context:**
-1. Review [`notes/judicial–submission.md`](notes/judicial–submission.md)
-2. Check [`notes/judicial–followup–friction.md`](notes/judicial–followup–friction.md)
+1. Review [`notes/judicial-submission.md`](notes/judicial-submission.md)
+2. Check [`notes/judicial-followup-friction.md`](notes/judicial-followup-friction.md)
 3. Read [`notes/ADMINISTRATIVE_DISCLAIMER.md`](notes/ADMINISTRATIVE_DISCLAIMER.md)
 4. See [`EDITINGPOLICY.md`](EDITINGPOLICY.md)
 
@@ -238,12 +238,12 @@ Documentation of operational standards and protocols (section under development)
 - **Main Hypothesis:** [`theories/hypothesis-A.md`](theories/hypothesis-A.md)
 - **Live Data:** [`READ_ME_2.0.md`](READ_ME_2.0.md)
 - **Technical Details:** [`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md)
-- **Trial Data:** [`trials/trial-001.md`](trials/trial-001.md) | [`trials/trials–002.md`](trials/trials–002.md) | [`trials/bathtub-trial-08-30-2026.md`](trials/bathtub-trial-08-30-2026.md)
+- **Trial Data:** [`trials/trial-001.md`](trials/trial-001.md) | [`trials/trials-002.md`](trials/trials-002.md) | [Bathtub trial .MD](https://github.com/KaNoOoKAh/somatic-awareness-lab.md/blob/main/Bathtub%20trial%20.MD)
 - **Philosophy:** [`research/love-as-responsive-presence/manifesto.md`](research/love-as-responsive-presence/manifesto.md)
 - **Field Observations:** [`personal_observations/field_observations_interoception.md`](personal_observations/field_observations_interoception.md)
-- **Field Observations:** [`personal_observations/tactile_sensitivty..Md,`](personal_observations/tactile_sensitivty..Md,)
+- **Field Observations:** [`personal_observations/tactile_sensitivty.md`](personal_observations/tactile_sensitivty.md)
 - **Field Observations:** [`personal_observations/2026-08-28_somatic_sensation_distribution_event.md`](personal_observations/2026-08-28_somatic_sensation_distribution_event.md)
-- **Administrative:** [`notes/judicial–submission.md`](notes/judicial–submission.md)
+- **Administrative:** [`notes/judicial-submission.md`](notes/judicial-submission.md)
 
 ---
 
@@ -251,7 +251,7 @@ Documentation of operational standards and protocols (section under development)
 
 This is an active research repository. Documentation is being continuously updated as new observations and analyses are completed.
 
-For inquiries or contributions, please refer to the repository's [Issues](https://github.com/kanoookah/somatic-cognitive-function/issues) section.
+For inquiries or contributions, please refer to the repository's [Issues](https://github.com/KaNoOoKAh/somatic-cognitive-function/issues) section.
 
 ---
 
