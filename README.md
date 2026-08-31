@@ -68,7 +68,7 @@ This repository operates under a strict multi-layer parsing protocol to prevent 
 |------|---------|
 | [`README.md`](README.md) | **You are here** - Main navigation and project overview |
 | [`READ_ME_2.0.md`](READ_ME_2.0.md) | Detailed live observations and field entries (08/21/2026+) |
-| [`FIELD_LOGS.md`](FIELD_LOGS.md) | Chronological operational field logs and observations |
+| [`FIELD_LOGS.md`](field_notes/FIELD_LOGS.md) | Chronological operational field logs and observations |
 | [`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md) | Advanced neuroscience and technical reference materials |
 | [`EDITINGPOLICY.md`](EDITINGPOLICY.md) | Documentation standards and editing guidelines |
 
