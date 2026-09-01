@@ -48,7 +48,7 @@ The theory that embodied awareness (connection to bodily sensation) directly cor
 -### Short example of one of the main somatic deficiencies we are experiencing due to improper acknowledgement of the different abilities our bodies are able to start, sustain, and complete. 
 
  #### One was washing a vehicle but using my hands and forearms and applying concentration and directional force/power. After 15-20 minutes of continuing to try and feel for contaminants while using water and soap to hydrate the paint and my hands. I could feel every single spec of dirt or grime stuck in the paint. I could also feel each ring of skin.
- #### I could also feel my hand getting stuck when applying a negative force. I also did this while inhaling and exhaling slowly. I remember on exhale when I would release my hand would not stick to the vehicle..,
+ #### I could also feel my hand getting stuck when applying a negative force. I also did this while inhaling and exhaling slowly. I remember on exhale when I would release my hand would not stick to the vehicle. I would also like to add that the skin on my forearm also became rejuvenated with feeling and response..,
 -  #### Also please remember I practice for hours every day. Even when walking regularly I apply different directions of force/power to different areas while inhaling and exhaling at different intervals.
    - This negative pressure is the exact opposite force that I use to apply to all areas of my body when performing any action at any given time.
 -  #### Every step I take I try to apply a negative force to the side/leg I lift up.
