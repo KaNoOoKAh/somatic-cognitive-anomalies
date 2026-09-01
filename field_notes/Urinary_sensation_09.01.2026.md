@@ -58,3 +58,8 @@ I just woke up and I use the bathroom or I had to go urinate so I was trying to 
 
 The sensation was very minimal. I let out urine and held it in probably like 3 to 5 times. I’m making a note or something I’m not dumb.(my mom telling me I’m dumb) 
 It was not the same[ORIGINAL TEXT]
+
+### New objectives: 
+
+I will now start breathing and forcefully  help my stomach on inhale and exhale. While also concentrating on other areas at the same time. 
+- I have noticed that there are different areas I need to concentrate on when doing this exercise. What I mean is don’t think of your stomach as one area. Look at it when you’re doing the exercise and push out more areas near the bottom, sides, and top. keep moving out once you practice it more. 
