@@ -55,3 +55,16 @@ Researchers and contributors reviewing this repository are invited to cross-anal
 
 ## References
 *(Open for peer-reviewed citations during the institute review phase.)*
+
+# How Environmental Factors and Demineralization Affect Filtered Drinking Water and Systemic Energy
+
+## 1. The Core Concept
+The clean, filtered water that we drink everyday is being altered and manipulated by the surrounding environment. Because modern filtration systems strip away all natural minerals, nutrients, and trace elements, the water is left incomplete. Without these natural components, the water lacks the internal structure required to properly absorb, hold, and transfer energy.
+
+## 2. Why Highly Filtered Water is Vulnerable
+When water is processed until it is completely pure, it becomes unnatural. In nature, water is always bonded with minerals. When those minerals are removed:
+- **Environmental Vulnerability:** The water is easily influenced and manipulated by the ambient environment, air quality, and surrounding energy fields because it has no baseline minerals to keep it stable.
+- **Energy Transfer Failure:** Water requires its natural elemental markers to act as a proper conductor of energy. Stripping it clean takes away its ability to smoothly transfer vital energy when it enters a living system.
+
+## 3. Impact on Health and Focus (Somatic-Cognitive)
+When you drink water that has been stripped and altered by the environment, your body has to work harder to process it. This can lead to a noticeable drop in physical energy and mental clarity. This repository exists to document these real-world observations and track how different water sources change our daily cognitive and somatic states.
