@@ -62,4 +62,6 @@ It was not the same[ORIGINAL TEXT]
 ### New objectives: 
 
 I will now start breathing and forcefully  help my stomach on inhale and exhale. While also concentrating on other areas at the same time. 
-- I have noticed that there are different areas I need to concentrate on when doing this exercise. What I mean is don’t think of your stomach as one area. Look at it when you’re doing the exercise and push out more areas near the bottom, sides, and top. keep moving out once you practice it more. 
+- I have noticed that there are different areas I need to concentrate on when doing this exercise. What I mean is don’t think of your stomach as one area. Look at it when you’re doing the exercise and push out more areas near the bottom, sides, and top. keep moving out once you practice it more.
+- im going to figure out what happens when organisms do not migrate .
+   - Organisms migrate for only a couple main reasons. Since we humans do not migrate and do not adapt or acclimate . What can that do for mental and physical stability 
