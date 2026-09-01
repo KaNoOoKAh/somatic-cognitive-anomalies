@@ -13,6 +13,7 @@ This folder is dedicated to tracking global events, observation data, and govern
 *   **Specialist Consultations:** Insights and advice from professionals.
 
 *   **Population Impacts:** Studies on societal trends, stressors, and vulnerabilities.
+*   **Mental Notes:** Restricting Certain Data For Personal Self Conscious Reasons.(What parts of your brain did you feel reconnect when doing some of these exercises?LoL..,)
 
 ## Progress Log
 
