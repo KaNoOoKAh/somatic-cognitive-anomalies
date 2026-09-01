@@ -14,6 +14,7 @@ This folder is dedicated to tracking global events, observation data, and govern
 
 *   **Population Impacts:** Studies on societal trends, stressors, and vulnerabilities.
 *   **Mental Notes:** Restricting Certain Data For Personal Self Conscious Reasons.(What parts of your brain did you feel reconnect when doing some of these exercises?LoL..,)
+*   -Contained in my personal diary is a detailed layout of the exact web I could feel activating/starting/stopping in the back area of my head/brain.
 
 ## Progress Log
 
