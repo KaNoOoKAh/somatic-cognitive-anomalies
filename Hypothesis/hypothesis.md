@@ -21,7 +21,7 @@ This document serves as the master ledger for all newly formulated hypotheses re
 ### Hypothesis 01: Fungal Nutrient-Absorbability Blockade
 * **Date Formulated:** September 2, 2026
 * **Core Observation:** Dark-pigmented fungal colonies on organic food substrates immediately halt decomposition and shift color back to white after applying a spray of specific nutrients and H20. Change was immediate. New growth was not present. Only a change or healing process of current strands of pigmented hyphae was observed.While white hyphae seemed to thicken when hit with overspray of the liquid.
-* **Proposed Explanation:** Nutrients/Oxygen available in the atmosphere or environment is either unusable, unattainable, or not in the immediate surrounding area.
+* **Proposed Explanation:** N/A
 * **Testable Prediction:** .
 * **Current Status:** Supported by multiple successive trials (Post-2020 to Present).
 
