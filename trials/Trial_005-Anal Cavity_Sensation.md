@@ -3,6 +3,14 @@
 **Subject:** Defecation Dynamics & Systemic Somatosensory Progression  
 **Category:** Somatic Anomalies / Interoceptive Tracking
 
+
+#### Important Reminder: 
+When sitting on the toilet about to defecate. The sensation I was getting was controllable by exerting a negative and relax state through out the body. The moment I started to push or use actual “pressure” to push the feces out. I started feeling the sensation travel down or not travel down but either start disappearing, being restricted, being completely absorbed or used, or not being able to maintain its self. The sensation started to dissipate from the head area going down. like if you put a ring of smoke onto a slanted area and their is no residual smoke. but the smoke lowers and lowers.  
+
+the sensation was then concentrated around the anal hole/rectum and continued to build the more I pushed. 
+
+the moment I let go and stop pushing. and resumed negative force throughout the body additional to the relaxation state. The sensation appeared once more.
+
 ## Observations & Context
 Tracking was conducted during a bowel movement to evaluate how pelvic and visceral feedback interacts with the somatosensory system when mechanical straining is intentionally minimized. Stool was passed slowly without active abdominal forcing.
 
