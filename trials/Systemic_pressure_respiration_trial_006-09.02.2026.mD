@@ -39,3 +39,7 @@ my groin and but aren’t getting the same feeling or sensation either.
 
 gotta remember that when your concentrating on the front of the neck you have to look at it like a sphere. not just up and down or straight and back and from one main point.. I need to remember to tackle it from every single spot through and theough
 - this just got hard. I don’t even know which directions are the correct directions and if it’s the same . like which way should I be applying positive or negative pressure in? side to side, diagonal , side then in, two sides then out, oh boy
+10:00pm - it is getting easier and easier to feel a rhythm with my body. When I was first starting this out it’s like my skin, muscles, and/or tissue was hard even though I’m skinny. when I would inhale or exhale all I would see or feel is my stomach and my chest/ribs moving. now I can feel my thighs,arms, sides of my head, ears, upper back and lower back
+breathing. I think there is a huge difference between feeling something and actually feeling something. My skin is becoming more receptive as well. 
+I’m pretty sure my groin area is starting to sweat now to. but there is still minimum to no feeling. The sensations also do not travel to the penis and testicle area as it does when it courses through my body. 
+I have just taken note that even when I was just practicing for the 30 minutes I was not actively concentrating in that area and including it in the exercise. 
