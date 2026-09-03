@@ -26,3 +26,7 @@ New Pattern: Negative pressure on inhale → Pressure (or resistance) on exhale.
 - **Duration:** 30 minutes continuous.
 - **Sensory Progression:** [Input notes on how the sensation spread, any changes in intensity, and peripheral boundaries encountered]
 - **Post-Trial Autonomic State:** [Document recovery time, heart rate perception, or residual waves]
+
+notes - 2minutes in I can already feel it’s like there’s a disconnect in different areas. 
+- I have to hold that exact state while slowly inhaling and exhaling in order to keep the energy/sensation equal and where it’s currently at. the moment I lose concentration or “let go” it subsides. 
+- The longer I can keep that “face red” feeling while inhaling and exhaling the more I’m able to feel certain areas not connected, some areas connected better than others, and it’s like everything below my skin is loosening up. I’m also feeling different waves of sensations through my cheeks, not my lips or corners of my mouth though, not my nose, but my chest and back are feeling it.
