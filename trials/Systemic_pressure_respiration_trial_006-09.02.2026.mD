@@ -36,3 +36,5 @@ my thighs are getting more feeling to and it feels like muscle is loosening uo(?
 my groin and but aren’t getting the same feeling or sensation either.
 
 9:37pm I just noticed my neck was completely dull or non existent. when I started concentrating on it. The rear of the neck started feeling sensation and a connection. the front of the neck is very minimal. I will try and concentrate on the front of the neck and deeper into the muscle/tissue
+
+gotta remember that when your concentrating on the front of the neck you have to look at it like a sphere. not just up and down or straight and back and from one main point.. I need to remember to tackle it from every single spot through and theough
