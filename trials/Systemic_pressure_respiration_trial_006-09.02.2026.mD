@@ -14,6 +14,8 @@ Old Pattern: Positive pressure on inhale → Negative pressure on exhale.
 
 New Pattern: Negative pressure on inhale → Pressure (or resistance) on exhale.
 
+^**Dependent on how you normally breath.** 
+
 ## Trial Parameters & Tracking Metrics
 - **Baseline Integration:** Layering the 30-minute focused effort directly on top of the ongoing, breath-by-breath tension patterns maintained throughout the day.
 - **Systemic Distribution:** Tracking the transition of localized facial/head pressure as it is consciously directed to propagate through the torso, extremities, and peripheral tissues.
