@@ -43,3 +43,5 @@ gotta remember that when your concentrating on the front of the neck you have to
 breathing. I think there is a huge difference between feeling something and actually feeling something. My skin is becoming more receptive as well. 
 I’m pretty sure my groin area is starting to sweat now to. but there is still minimum to no feeling. The sensations also do not travel to the penis and testicle area as it does when it courses through my body. 
 I have just taken note that even when I was just practicing for the 30 minutes I was not actively concentrating in that area and including it in the exercise. 
+
+(Will edit to proper field logs submission)
