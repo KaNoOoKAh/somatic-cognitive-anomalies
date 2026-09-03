@@ -38,3 +38,4 @@ my groin and but aren’t getting the same feeling or sensation either.
 9:37pm I just noticed my neck was completely dull or non existent. when I started concentrating on it. The rear of the neck started feeling sensation and a connection. the front of the neck is very minimal. I will try and concentrate on the front of the neck and deeper into the muscle/tissue
 
 gotta remember that when your concentrating on the front of the neck you have to look at it like a sphere. not just up and down or straight and back and from one main point.. I need to remember to tackle it from every single spot through and theough
+- this just got hard. I don’t even know which directions are the correct directions and if it’s the same . like which way should I be applying positive or negative pressure in? side to side, diagonal , side then in, two sides then out, oh boy
