@@ -34,3 +34,5 @@ my thighs are getting more feeling to and it feels like muscle is loosening uo(?
 9:34pm never mind I’m starting to feel it in my thighs. not my knees and below though.
 
 my groin and but aren’t getting the same feeling or sensation either.
+
+9:37pm I just noticed my neck was completely dull or non existent. when I started concentrating on it. The rear of the neck started feeling sensation and a connection. the front of the neck is very minimal. I will try and concentrate on the front of the neck and deeper into the muscle/tissue
