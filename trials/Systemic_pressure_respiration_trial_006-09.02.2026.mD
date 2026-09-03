@@ -30,3 +30,7 @@ New Pattern: Negative pressure on inhale → Pressure (or resistance) on exhale.
 notes - 2minutes in I can already feel it’s like there’s a disconnect in different areas. 
 - I have to hold that exact state while slowly inhaling and exhaling in order to keep the energy/sensation equal and where it’s currently at. the moment I lose concentration or “let go” it subsides. 
 - The longer I can keep that “face red” feeling while inhaling and exhaling the more I’m able to feel certain areas not connected, some areas connected better than others, and it’s like everything below my skin is loosening up. I’m also feeling different waves of sensations through my cheeks, not my lips or corners of my mouth though, not my nose, but my chest and back are feeling it.
+my thighs are getting more feeling to and it feels like muscle is loosening uo(?) but I am not getting the same sensations as I am in my face 
+9:34pm never mind I’m starting to feel it in my thighs. not my knees and below though.
+
+my groin and but aren’t getting the same feeling or sensation either.
