@@ -38,10 +38,10 @@ This repository catalogs real-time linguistic density, spatial transition proces
 ---
 
 ## Active Research Phase: Cognitive Synthesis vs. Scripted Scanning
-Our target analytical run utilizes the 20-segment `transcripts_05_kcc_botany_lecture_2026_08_24.md` payload to isolate mechanical text processing profiles.
+Our target analytical run utilizes the 20-segment `transcripts_05_lecture_2026_08_24.md` payload to isolate mechanical text processing profiles.
 
 ### The Lecture Scripting Hypothesis (Botany Run)
-We are actively parsing the word choices, conversational shifts, and temporal pacing of a live 100-level Botany lecture stream... to test for indicators of whether the subject is executing internal generative speech or if they are reading from a pre-structured document/script...
+We are actively parsing the word choices, conversational shifts, and temporal pacing of a lecture. to test for indicators of whether the subject is executing internal generative speech or if they are reading from a pre-structured document/script...
 
 ### Core Testing Variables
 *   **Generative Cognition (Active Generation):** Marked by erratic structural tangents, localized anecdotes, real-time tracking errors, and somatic pacing shifts. This profile confirms real-time ...
