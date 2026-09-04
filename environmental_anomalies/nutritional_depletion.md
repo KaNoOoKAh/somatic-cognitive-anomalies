@@ -11,7 +11,7 @@ Low-altitude environments and coastal regions (particularly hyper-urbanized area
 
 In nature, wild organisms rely on undisturbed soil contact, diverse native flora (such as antioxidant-rich native understory species like Māmaki), and clean hydrological cycles to obtain baseline minerals (potassium, magnesium, calcium) and trace nutrients. In densely packed commercial and residential zones, these natural substrates are completely sealed beneath concrete, leaving nothing for local life forms to forage safely. This can cause stress, anxiety, survival-instincts, and mass confusion within every single colony or group. 
 
-Organisms being subjected to this forced environmental seclusion need alternate resources. If we are being affected by some unknown or unidentified energy, that is altering our normal functions and abilities. What could be happening to life forms as small as a spec of dirt. 
+Organisms being subjected to this forced environmental seclusion need alternate resources. 
 
 ## Chemical Starvation vs. Direct Poisoning: 
 
@@ -23,5 +23,5 @@ Because natural migratory and nutritional pathways are completely blocked by roa
 
  Migratory patterns can also be disrupted by external influences. When these patterns start disappearing or become impossible for organisms to complete. It can cause many different issues within oneself and the entire family. Individual organisms could start abnormal activities like becoming hostile in a friendly environment. Some might even start wandering off and away from the security that their family and friends provide. These problems are not species specific, all life currently on this planet go through some form of this. 
  
- It would be good to remember who is actually able to identify, process, and problem-solve with a higher level of knowledge and understanding. All organisms might have some cognitive skills. That doesn't mean that they don't need some kind of assistance. It means that they might just need someone to check on them.
+ That doesn't mean that they need some kind of assistance. It means that they might just need someone to check on them.
 
