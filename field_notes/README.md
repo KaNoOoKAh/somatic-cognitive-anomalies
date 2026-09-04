@@ -51,7 +51,7 @@ We are actively parsing the word choices, conversational shifts, and temporal pa
 
 ## Directory Pipeline
 *   `field_notes/`
-    *   `transcripts_05_kcc_botany_lecture_2
+    *   `transcripts_05_lecture_2
 
 ### Mechanical Profiles: Verbatim Scripting vs. Dynamic Material Navigation
 
