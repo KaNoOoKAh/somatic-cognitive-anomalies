@@ -14,16 +14,15 @@ A highly visible, widespread tendency for individuals' left eyes to intermittent
 
  ## Speech and Processing Shifts:
  
- A collective alteration in how the population talks, moves, and processes information. By manifesting a pronounced "think before you speak and act" behavioral pattern, I theorize that addressing this will help the mental and physical health of a lot of people. I am suggesting that a fundamental shift in baseline cognitive and motor processing speeds has changed across the population for entirely unknown reasons.
-I’ve noticed people responding in different ways and comprehension levels have plummeted in different environments. Even if the individuals are highly educated and skilled they responded in a weird uneducated kind of way.
+ A collective alteration in how the population talks, moves, and processes information. By manifesting a pronounced "think before you speak and act" behavioral pattern, I theorize that addressing this will help the mental and physical health of a lot of people. I am suggesting that a fundamental shift in baseline cognitive and motor processing speeds has changed across the population for entirely unknown reasons..
 
 ## Symptom Mismatch and Awareness Gaps:
  
  A severe disconnect between internal systemic illness and conscious public awareness during recent viral surges. Because primary symptoms were frequently minimized as simple coughs or normal regional temperatures, a large portion of the population operated under a false sense of health, leaving severe internal complications unaddressed until critical stages. 
+
+ I believe that migration or not migrating could be one of the main factors for this overload on my system. But also not actively practicing certain genetic traits/abilities that our bodies are proven to have.
  
- It’s like people aren’t able to process or comprehend what self awareness really is in current time. It isn’t something that can be replicated or fixed with apparel or cosmetics. It’s like when you hold your chest out, shoulders outwards and not just “up”. One of the other examples is wearing dress shoes, heels, or footwear that you prize and don’t want to bend or dirty. what I mean is that you have to directly activate certain systems and and control over certain areas of your body. The footwear that I wore didn’t activate the negative pressure or hold my foot in a straight stable position for 3 hours. I had to do it.
- 
- There are many different breathing techniques besides simply "inhale through your nose and exhale through your mouth” that will make you mentally and physically aware/connected with other areas of your respiratory system & also heal, wake up, and re-build what was forgotten. Concentration and effort is going to be very important factors in creating a true symbiotic relationship with ourselves and the environment that is also being affected by what ever is happening. 
+ It’s like my body isn’t able to properly identify when to stop certain process. It feels like I have lost the ability to touch or feel on a perception level.
  
  I’ve also witnessed many individuals recently driving in a manner that scared me. Upon notifying the driver of what I was observing, all the responses or reactions I received was they didn’t know, stayed quiet, stayed quiet/didn’t know how to respond/then freaked out in a really abnormal manner. 
 
