@@ -74,7 +74,7 @@ Subjective Observations & Participant FeedbackKinesthetic Connection: SWIM exper
 
 Engagement: SWIM demonstrated an evolving understanding of the underlying purpose of these somatic exercises, leading to an increased interest in active participation.
 
-Physical Responses: During rest intervals, SWIM reported localized "tingly" sensations throughout the body and noted that the muscles began to feel "weird and fatigued”(indicating sensory adaptation or neural activation).
+Physical Responses: During rest intervals, SWIM reported localized "tingly" sensations throughout the body and noted that the muscles began to feel "weird and fatigued”(indicating sensory adaptation or neural activation). Swim indicated that visuals appeared more clear than before.
 
 Observer Insights & Future Intentions Biomechanical Note: It is crucial to monitor how these vectors are applied. While negative pressure is commonly conceptualized as pulling vertically upward, experimentation reveals that negative force vectors can be successfully mapped horizontally and diagonally at any height or structural increment.
 
