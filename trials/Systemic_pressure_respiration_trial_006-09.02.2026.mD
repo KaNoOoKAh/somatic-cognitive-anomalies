@@ -45,3 +45,38 @@ I’m pretty sure my groin area is starting to sweat now to. but there is still 
 I have just taken note that even when I was just practicing for the 30 minutes I was not actively concentrating in that area and including it in the exercise. 
 
 (Will edit to proper field logs submission)
+
+## Submission 2: 
+
+Session OverviewDate & Time: Thursday, August 3, 2026 at 4:19 PM
+
+Session Title: Mini CircuitPre-Session 
+
+Context: Conducted following the completion of schoolwork and a friend assisting with property landscape maintenance.
+
+Participant: SWIM (Someone Who Isn't Me)
+
+Exercise BreakdownExercise 1
+
+Somatic/Cognitive Outward ForceProtocol: Applied outward pressure/force across the entire body while inhaling through the nose and exhaling through the mouth.
+
+Volume: 4 distinct sets of 10–15 full breaths.
+
+Execution Notes: Sustained continuous force and concentration throughout each entire set without allowing the pressure to drop or dissipate.
+
+Exercise 2: Spatial Negative Force (Walking)Protocol: Walking 40-foot intervals (20 feet forward, 20 feet back).Volume: 2 sets total.
+
+Set 1: Applied a negative (inward/pulling) force uniformly across the entire body.
+
+Set 2: Walked 15 full laps while applying a negative force targeted to both sides of the legs, specifically focusing the inward pressure on the knees.
+
+Subjective Observations & Participant FeedbackKinesthetic Connection: SWIM experienced difficulty applying both positive and negative forces evenly across all body regions. Neuromuscular connection came more easily in certain localized areas than others.
+
+Engagement: SWIM demonstrated an evolving understanding of the underlying purpose of these somatic exercises, leading to an increased interest in active participation.
+
+Physical Responses: During rest intervals, SWIM reported localized "tingly" sensations throughout the body and noted that the muscles began to feel "weird" (indicating sensory adaptation or neural activation).
+
+Observer Insights & Future Intentions Biomechanical Note: It is crucial to monitor how these vectors are applied. While negative pressure is commonly conceptualized as pulling vertically upward, experimentation reveals that negative force vectors can be successfully mapped horizontally and diagonally at any height or structural increment.
+
+Next Steps: Future trials will focus on expanding muscle recruitment and expanding targeted zones. The goal is to replicate the sensation achieved during yesterday’s trial (upper body rotation with alignment contraction), which left a distinct, stable "padded" sensation along the left side of the spine.
+
