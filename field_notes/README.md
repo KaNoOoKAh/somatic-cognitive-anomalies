@@ -25,7 +25,7 @@ This folder is dedicated to tracking global events, observation data, and govern
 
 1.  **Identify:** Document the raw event or anomaly.
 2.  **Process:** Break down the structural or societal impact.
-3.  **Assess:** Evaluate the severity and governmental response.
+3.  **Assess:** Evaluate the severity.
 4.  **React:** Formulate real-time application and safety strategies.
 
 markdown# somatic-cognitive-function
