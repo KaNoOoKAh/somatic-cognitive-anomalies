@@ -23,7 +23,8 @@ I want to look at the areas where these chemicals are supposedly being distribut
 
 It feels more like applying force than control. For example, when I was controlling certain movements so I would not crease my dress shoes, I was not actively applying force or concentrating in the same way. It was more like control than simply letting my foot move naturally as the ground shaped it during walking.
 
-If I do not lift my leg high enough, or if I do not keep my foot straight, I feel like I am consciously controlling each movement and each small muscle contraction.
+If I do not lift my leg high enough, or if I do not keep my foot straight, I feel like I am consciously controlling each movement and each small muscle contraction. While tightening the skin surrounding the area and applying different types of negative & positive force. 
+## Not actual weighted pressure
 
 ## Research Note
 This entry may help researchers compare:
