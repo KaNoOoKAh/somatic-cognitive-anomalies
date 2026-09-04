@@ -17,12 +17,11 @@ This theory proposes that because the elbows and knees serve as the continuous, 
 
 ### 2. The Joint as a Decoupled "Brain"
 * **Anchor Points:** The body treats the elbow and knee as the primary anchor points for posture and movement.
-* **Signal Confusion:** Because these nodes are constantly processing high-priority movement data, a sudden physical impact causes massive signal confusion. 
-* **The Response:** The intense reaction is the body misinterpreting data routing, essentially treating the physical hub of the joint as a temporary processing center (a mini-brain) that has been abruptly disrupted.
+* **Signal Confusion:** These nodes are constantly processing high-priority movement data, without any true mental direction causing signal confusion. 
+* **The Response:** The intense reaction is the body misinterpreting data routing and direction.
 
 ---
 
 ## Conclusion
-The unique sensitivity of the elbow and knee is a direct result of their role as the most heavily utilized, unconsciously controlled data hubs in the human structural frame. 
+The unique sensitivity of the elbow and knee is a direct result of their role as the most heavily utilized, unconsciously controlled data hubs in the human structural frame. Practicing the actual act of cutting off certain signals is vital in order for us to properly rest, heal, and relax.
 
-#Health #Bone #Movement #science #biology #anatomy
