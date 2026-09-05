@@ -8,7 +8,6 @@
 
 * 📖 **READ ME PLEASE**
 * 🧠 **Neuroscience Deep-Dive**
-* 
 * 📑 **Field Tracking Data**
 
 ---
