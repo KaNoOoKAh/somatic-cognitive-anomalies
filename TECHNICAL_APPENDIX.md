@@ -6,9 +6,10 @@
 
 ### 📂 Project Navigation
 
-* 📖 **Main Overview:** [README.md](./README.md)
-* 🧠 **Neuroscience Deep-Dive:** [TECHNICAL_APPENDIX.md](./TECHNICAL_APPENDIX.md)
-* 📑 **Field Tracking Data:** [FIELD_LOGS.md](./FIELD_LOGS.md)
+* 📖 **READ ME PLEASE**
+* 🧠 **Neuroscience Deep-Dive**
+* 
+* 📑 **Field Tracking Data**
 
 ---
 
