@@ -1,5 +1,9 @@
 # Somatic-Cognitive-Function
 
+All information contained in this repository represents experimental research, personal observation, and ongoing theoretical exploration. Nothing here should be interpreted as medical guidance, established scientific fact, or authoritative instruction. All material should be independently researched, verified, and critically evaluated before being used in any applied context. This repository is intended solely for research, review, and continued inquiry.
+
+You are free to use, analyze, or build upon this material as you wish. Just remember that time does not stop, and if any observations documented here are ever confirmed, please take whatever steps or procedures are necessary to ensure public safety. If you would like additional information that I possess and want it written into text, feel free to ask..-..'ICeI^3_&_KaNoOokAh_&_SHAdOw..,'
+
 ## 🌐 Project Overview
 
 This repository contains research tracking **emergent somatic function**, **cognitive shifts**, and **respiratory resonance vectors** across modern, low-friction environments.
